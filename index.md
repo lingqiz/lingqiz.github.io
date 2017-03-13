@@ -13,8 +13,13 @@
 <td id="layout-menu">
 <div class="menu-category">Lingqi Zhang</div>
 <div class="menu-item"><a href="index.html" class="current">home</a></div>
+<div class="menu-category">Reseach</div>
 <div class="menu-item"><a href="resume.html">resume</a></div>
-<div class="menu-item"><a href="research.html">research</a></div>
+<div class="menu-item"><a href="projects.html">projects</a></div>
+<div class="menu-item"><a href="pub.html">publication</a></div>
+<div class="menu-category">MISC</div>
+<div class="menu-item"><a href="teaching.html">teaching</a></div>
+<div class="menu-item"><a href="software.html">software</a></div>
 <div class="menu-item"><a href="resources.html">resources</a></div>
 </td>
 <td id="layout-content">
@@ -59,7 +64,7 @@ and also parallel programming such as CUDA. I'm also interested in Philosophy of
 of consciousness.</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2017-03-13 01:29:48 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2017-03-13 01:37:07 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 (<a href="index.jemdoc">source</a>)
 </div>
 </div>
