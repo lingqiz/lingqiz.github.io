@@ -34,7 +34,7 @@ at South University of Science and Technology of China, which is newly establish
 <p>I'm currently a visiting student at <a href="https://shamslab.psych.ucla.edu">Multisensory Perception Lab</a> at University of 
 California, Los Angeles with Professor <a href="https://www.psych.ucla.edu/faculty/page/lshams">Ladan Shams</a>, 
 where I study the computational principle behind multisensory integration 
-(<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000943">Bayesian causal inference model</a>). 
+(<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000943">Bayesian causal inference</a>). 
 Previously I have been working with Professor <a href="https://www.erlichlab.org/">Jeffrey Erlich</a> at New York University Shanghai 
 on computational modeling of rodents behavior,  and with Professor <a href="http://www.mjrlab.org/">Malte Rasch</a> at Beijing Normal Unversity on human face 
 perception. I also closely interact with Professor <a href="http://www.cse.ust.hk/~qiwang/">Qi Wang</a> during my undergradaute, whose guidance had a significant influence on me doing great science. </p>
@@ -64,7 +64,7 @@ and also parallel programming such as CUDA. I'm also interested in Philosophy of
 related to free will and the &ldquo;hard problem&rdquo; of consciousness</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2017-03-13 11:41:59 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2017-03-13 11:58:02 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 (<a href="index.jemdoc">source</a>)
 </div>
 </div>
