@@ -61,7 +61,7 @@ I also maintain active interests in dynamical system model and control theory.</
 <p>Despite being deeply intrigued by the mystery of the brain, I still keep some of the engineer part of myself :) 
 I'm interested in <a href="https://probmods.org/">Probabislitc Programming Language</a> and generally Functional Programming, 
 and also parallel programming such as CUDA. I'm also interested in Philosophy of Mind such as the discussion 
-related to free will and the &ldquo;hard problem&rdquo; of consciousness</p>
+related to free will and the &ldquo;hard problem&rdquo; of consciousness.</p>
 <div id="footer">
 <div id="footer-text">
 Page generated 2017-03-13 11:41:59 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
