@@ -11,7 +11,7 @@
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
-<div class="menu-category">Lingqi Zhang</div>
+<div class="menu-category">Lingqi</div>
 <div class="menu-item"><a href="index.html" class="current">home</a></div>
 <div class="menu-category">Reseach</div>
 <div class="menu-item"><a href="resume.html">resume</a></div>
@@ -61,10 +61,10 @@ I also maintain active interests in dynamical system model and control theory.</
 <p>Despite being deeply intrigued by the mystery of the brain, I still keep some of the engineer part of myself :) 
 I'm interested in <a href="https://probmods.org/">Probabislitc Programming Language</a> and generally Functional Programming, 
 and also parallel programming such as CUDA. I'm also interested in Philosophy of Mind such as the &ldquo;hard problem&rdquo; 
-of consciousness.</p>
+of consciousness</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2017-03-13 01:47:05 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2017-03-13 01:59:08 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 (<a href="index.jemdoc">source</a>)
 </div>
 </div>
