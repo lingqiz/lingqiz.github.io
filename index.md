@@ -41,7 +41,7 @@ perception. I also closely interact with Professor <a href="http://www.cse.ust.h
 <h2>Research Interests (see reseach page for details)</h2>
 <p>I’m interested in how the brain works from a computational (theoretical) perspective. 
 Using engineering tools and ideas such as Bayesian Statistics (Machine Learning), Information Theory and Reinforcement Learning, we can formalize
-the normative principles regarding perception and goal-directed behavior, which in turn provide us with testable predictions at both behavioral and 
+normative principles regarding perception and goal-directed behavior, which in turn provide us with testable predictions at both behavioral and 
 implementation (physiological) level. Conversely, by observing the how minds and machines solve the same problem 
 differently, I ask questions about how insights into brain and human behavior could inform the research of artificial intelligence. 
 I also maintain active interests in dynamical system model and control theory.</p>
@@ -64,7 +64,7 @@ and also parallel programming such as CUDA. I'm also interested in Philosophy of
 of consciousness.</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2017-03-13 01:37:07 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2017-03-13 01:47:05 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 (<a href="index.jemdoc">source</a>)
 </div>
 </div>
