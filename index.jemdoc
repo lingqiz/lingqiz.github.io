@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= Lingqi Zhang -- Home
-([zhanglq@ucla.edu])
+= Lingqi Zhang 
+([lingqiz@sas.upenn.edu])
+
+04/01/2017 - I will be moving to UPenn as a grad student in psychology this fall.
 
 Hi, this is Lingqi, wellcome to my website!
 
@@ -34,5 +36,5 @@ I also maintain active interests in dynamical system model and control theory.
 Despite being deeply intrigued by the mystery of the brain, I still keep some of the engineer part of myself :) 
 I'm interested in [https://probmods.org/ Probabislitc Programming Language] and generally Functional Programming, 
 and also parallel programming such as CUDA. I'm also interested in Philosophy of Mind such as the discussion 
-related to free will and the "hard problem" of consciousness.
+related to free will and the "hard problem of consciousness".
 
