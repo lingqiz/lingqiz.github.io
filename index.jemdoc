@@ -4,7 +4,9 @@
 
 Hi, this is Lingqi, wellcome to my website!
 
-I'm a first year PhD student at University of Pennsylvania working at the [http://www.sas.upenn.edu/~astocker/lab/index.php Computational Perception and Cognition Lab.]
+I'm a first year PhD student at University of Pennsylvania working at the 
+[http://www.sas.upenn.edu/~astocker/lab/index.php Computational Perception and Cognition Lab], 
+and also part of the [http://cni.upenn.edu/ Computational Neuroscience Initiative].
 
 I did my undergrad in Computer Science, 
 at Southern University of Science and Technology, which is newly established in 2011 at Shenzhen, China.
@@ -23,7 +25,6 @@ Using engineering tools and ideas such as Bayesian Statistics (Machine Learning)
 normative principles governing perception, cognition, and goal-directed behavior, which in turn provide us with testable predictions at both behavioral and 
 implementation (physiological) level. Conversely, by observing the how minds and machines solve the same problem 
 differently, I ask questions about how insights into brain and human behavior could inform the research of artificial intelligence. 
-I also maintain active interests in dynamical system model and control theory.
 
 - Computational Neuroscience
 - Computational Cognitive Science 
@@ -35,4 +36,3 @@ Despite being deeply intrigued by the mystery of the brain, I still keep some of
 I'm interested in [https://probmods.org/ Probabilistic Programming Language] and generally Functional Programming, 
 and also parallel programming such as CUDA. I'm also interested in Philosophy of Mind such as the discussion 
 related to free will and the "hard problem of consciousness".
-
