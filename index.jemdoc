@@ -7,7 +7,7 @@ Hi, this is Lingqi, wellcome to my website!
 I'm a first year PhD student at the University of Pennsylvania currently doing lab rotation with [http://burgelab.psych.upenn.edu/research/Home.html Professor Johannes Burge], 
 in the [https://psychology.sas.upenn.edu Department of Psychology] and the [http://cni.upenn.edu/ Computational Neuroscience Initiative].
 
-I did my undergrad in Computer Science, 
+I did my undergrad in Computer Science and Technology, 
 at Southern University of Science and Technology, which is newly established in 2011 at Shenzhen, China.
 ([http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631  Short story about our university])
 
@@ -15,8 +15,8 @@ Previously I worked at [https://shamslab.psych.ucla.edu  Multisensory Perception
 California, Los Angeles with Professor [https://www.psych.ucla.edu/faculty/page/lshams Ladan Shams], 
 where I study the computational principle behind multisensory integration 
 ([http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000943 Bayesian causal inference]). 
-I've also been working with Professor [https://www.erlichlab.org/ Jeffrey Erlich] at New York University Shanghai 
-on computational modeling of rodents behavior. I closely interact with Professor [http://www.cse.ust.hk/~qiwang/ Qi Wang] during my undergradaute, whose guidance had a significant influence on me doing science. 
+I've also spent some time working with Professor [https://www.erlichlab.org/ Jeffrey Erlich] at New York University Shanghai,
+learning computational modeling of rodents behavior. 
 
 == Research Interests 
 I’m interested in how the brain works from a computational perspective. 
@@ -33,5 +33,4 @@ differently, I ask questions about how insights into brain and human behavior co
 == Miscellaneous
 Despite being deeply intrigued by the mystery of the brain, I still keep some of the engineer part of myself :) 
 I'm interested in [https://probmods.org/ Probabilistic Programming Language] and generally Functional Programming, 
-and also parallel programming such as CUDA. I'm also interested in Philosophy of Mind such as the discussion 
-related to free will and the "hard problem of consciousness".
+and also parallel programming such as CUDA. I'm also interested in Philosophy of Mind such as the "hard problem of consciousness".
