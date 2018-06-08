@@ -20,14 +20,14 @@ learning computational modeling of rodents behavior.
 
 == Research Interests 
 I’m interested in how the brain works from a computational perspective. 
-Using engineering tools and ideas such as Bayesian Statistics (Machine Learning), Information Theory and Reinforcement Learning, we can formalize
+Using engineering tools and ideas such as Bayesian Inference (Machine Learning), Information Theory and Reinforcement Learning, we can formalize
 normative principles governing perception, cognition, and goal-directed behavior, which in turn provide us with testable predictions at both behavioral and 
 implementation (physiological) level. Conversely, by observing the how minds and machines solve the same problem 
 differently, I ask questions about how insights into brain and human behavior could inform the research of artificial intelligence. 
 
 - Computational Neuroscience
 - Computational Cognitive Science 
-- Bayesian Inference (Generative Model)
+- Bayesian Statistics
 - Reinforcement Learning
 
 == Miscellaneous
