@@ -3,25 +3,26 @@
 ([https://github.com/lingqiz My Github Repository])
 
 == Current Projects 
-Sensory Encoding in Individuals with Autism \n
+Sensory Encoding in Individuals with Autism: \n
 [https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract \[bioRxiv\]] [https://github.com/lingqiz/ASD_Encoding_2020 \[Code\]]
 
-Bayesian Image Reconstruction From Cone Mosaic Signal \n
+Bayesian Image Reconstruction From Cone Mosaic Signal: \n
 [https://youtu.be/d5qI0FNCAv4 \[V-VSS 2020 Talk\]] [https://github.com/isetbio/ISETPipelineToolbox \[Code\]] [https://github.com/isetbio/isetbio \[ISETBio\]] \n
 
-Efficient Coding of Speed in MT \n
+Psychophysics with Deep Neural Networks: \n
+[https://ccneuro.org/2019/proceedings/0000585.pdf \[Short Report\]]
+
+Efficient Coding of Speed in MT: \n
 [https://github.com/lingqiz/EfficientCoding \[Behavior\]] [https://github.com/lingqiz/Analysis_MT \[MT Ephys\]] \n
 
 == Past Projects 
 Course Project (CSE 167x, Computer Graphics):  \n
-Simple [https://github.com/lingqiz/UCSD-CSE-167x \[OpenGL\]], Vanilla Ray Tracer \n
+- Simple [https://github.com/lingqiz/UCSD-CSE-167x \[OpenGL\]]
+- Vanilla Ray Tracer \n
 
 Course Project (STAT 927, Bayesian Statistics): \n
-Hierarchical Bayesian Analysis of Psychophysical Experiment \n
-[https://github.com/zlqzcc/DoublePassBayesian/blob/master/Bayesian%20Statistics%20HW4%20Lingqi%20Zhang.pdf \[Report\]] [https://github.com/zlqzcc/DoublePassBayesian \[Code\]] \n
+- Hierarchical Bayesian Analysis of Psychophysical Experiment [https://github.com/zlqzcc/DoublePassBayesian/blob/master/Bayesian%20Statistics%20HW4%20Lingqi%20Zhang.pdf \[Report\]] [https://github.com/zlqzcc/DoublePassBayesian \[Code\]] \n
 
-Software Emulator for Bpod System \n
-[https://github.com/erlichlab/arduino_emulator \[Code\]] \n
+Software Emulator for Bpod System: [https://github.com/erlichlab/arduino_emulator \[Code\]] \n
 
-Bayesian Causal Inference Model of Weight Perception \n
-[https://peerj.com/articles/5760/ \[Paper\]] [https://github.com/zlqzcc/WeightIllusionChurch \[Code\]]
+Bayesian Causal Inference Model of Weight Perception: [https://peerj.com/articles/5760/ \[Paper\]] [https://github.com/zlqzcc/WeightIllusionChurch \[Code\]]
