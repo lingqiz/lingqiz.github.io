@@ -4,35 +4,35 @@
 
 == Current Projects 
 ~~~
-{}{img_left}{images/encodingASD.png}{project}{350px}{239px}
+{}{img_left}{images/encodingASD.png}{project}{400px}{273px}
 
 - *Sensory Encoding in Individuals with Autism:* \n
 [https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract \[bioRxiv\]] [https://github.com/lingqiz/ASD_Encoding_2020 \[Code\]]
 ~~~
 
 ~~~
-{}{img_left}{images/imageRecon.png}{project}{350px}{324px}
+{}{img_left}{images/imageRecon.png}{project}{400px}{370px}
 
 - *Bayesian Image Reconstruction From Cone Mosaic Signal:* \n
 [https://youtu.be/d5qI0FNCAv4 \[V-VSS 2020 Talk\]] [https://github.com/isetbio/ISETPipelineToolbox \[Code\]] [https://github.com/isetbio/isetbio \[ISETBio\]] \n
 ~~~
 
 ~~~
-{}{img_left}{images/speedPrior.png}{project}{350x}{254px}
+{}{img_left}{images/speedPrior.png}{project}{400x}{290px}
 
 - *Efficient Coding of Speed in MT:* \n
 [https://github.com/lingqiz/EfficientCoding \[Behavior\]] [https://github.com/lingqiz/Analysis_MT \[MT Ephys\]] \n
 ~~~
 
 ~~~
-{}{img_left}{images/ccn2019.png}{project}{350x}{278px}
+{}{img_left}{images/ccn2019.png}{project}{400x}{318px}
 
 - *Psychophysics with Deep Neural Networks:*
 [https://ccneuro.org/2019/proceedings/0000585.pdf \[CCN 2019\]]
 ~~~
 
 ~~~
-{}{img_left}{images/cse167.jpeg}{project}{350x}{263px}
+{}{img_left}{images/cse167.jpeg}{project}{400x}{281px}
 
 - *Course Project (CSE 167/168x, Computer Graphics):*  \n
 -- Simple [https://github.com/lingqiz/CSE-167x/tree/master/hw2-opengl \[OpenGL\]]
