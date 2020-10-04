@@ -35,8 +35,8 @@
 {}{img_left}{images/cse167.jpeg}{project}{400x}{281px}
 
 - *Course Project (CSE 167/168x, Computer Graphics):*  \n
--- Simple [https://github.com/lingqiz/CSE-167x/tree/master/hw2-opengl \[OpenGL\]]
--- Vanilla [https://github.com/lingqiz/CSE-167x \[Python Ray Tracer\]] \n
+-- Simple OpenGL \n
+-- Vanilla [https://github.com/lingqiz/ray-tracing \[Python Ray Tracer\]] \n
 -- Monte Carlo Path Tracing
 ~~~
 
