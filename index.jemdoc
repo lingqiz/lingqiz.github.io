@@ -24,9 +24,7 @@ learning computational modeling of rodents behavior.
 ~~~
 
 == Research Interests 
-I am interested in how the brain works from a computational perspective. \n
-
-Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory system. This consists of mainly two aspects: \n
+I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory system. This consists of mainly two aspects: \n
 
 1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, often under realistic biological constraint; And \n
 2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inference problem. \n
