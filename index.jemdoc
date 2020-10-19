@@ -24,12 +24,17 @@ learning computational modeling of rodents behavior.
 ~~~
 
 == Research Interests 
-I’m interested in how the brain works from a computational perspective. 
-Using engineering tools and ideas such as Bayesian Inference, Information Theory and Reinforcement Learning, we can formalize
-normative principles governing perception, cognition, and goal-directed behavior, which in turn provide us with testable predictions at both behavioral and 
-implementation (physiological) level. Conversely, by observing the how minds and machines solve the same problem 
-differently, I ask questions about how insights into brain and human behavior could inform the research of artificial intelligence. 
+I am interested in how the brain works from a computational perspective. \n
+
+Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory system. This consists of mainly two aspects: \n
+
+1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, often under realistic biological constraint; And \n
+2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inference problem. \n
+
+I am particularly interested in studying these questions in the context of complex, naturalistic tasks, to understand the extent to which our brain is indeed "optimal" and its limitations when facing challenging inference problem.
+
 
 == Miscellaneous
-Despite being deeply intrigued by the mystery of the brain, I still keep some of the engineer part of myself :) 
-I'm interested in [https://probmods.org/ Probabilistic Programming Language] and generally Functional Programming. I'm also interested in Philosophy of Mind such as the "hard problem of consciousness".
+Despite being deeply intrigued by the mystery of the brain, I still keep some of the engineer part of myself :) I'm interested in [https://probmods.org/ Probabilistic Programming Language], generally Functional Programming, and Computer Graphics. 
+I belief a "good" theory of the brain should be expressed in the language of mathematics and computation (i.e., a computer program).
+I'm also interested in Philosophy of Mind such as the "hard problem of consciousness".
