@@ -36,8 +36,8 @@
 
 - *Course Project (CSE 167/168x, Computer Graphics):*  \n
 -- Simple OpenGL \n
--- Vanilla [https://github.com/lingqiz/UCSD-CSE-167x \[Python Ray Tracer\]] \n
--- Monte Carlo Path Tracing
+-- Simple [https://github.com/lingqiz/CSE-167x-RayTracer \[Python Ray Tracer\]] \n
+-- [https://github.com/lingqiz/CSE-168x-OptiX \[Path Tracer with NVIDIA OptiX\]] (under development)
 ~~~
 
 ~~~
