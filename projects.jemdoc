@@ -32,12 +32,12 @@
 ~~~
 
 ~~~
-{}{img_left}{images/cse167.jpeg}{project}{400x}{281px}
+{}{img_left}{images/cse167.jpeg}{project}{400x}{221px}
 
 - *Course Project (CSE 167/168x, Computer Graphics):*  \n
 -- Simple OpenGL \n
 -- Simple [https://github.com/lingqiz/CSE-167x-RayTracer \[Python Ray Tracer\]] \n
--- [https://github.com/lingqiz/CSE-168x-OptiX \[Path Tracer with OptiX\]] (under development)
+-- [https://github.com/lingqiz/CSE-168x-OptiX \[Path Tracer with OptiX\]]
 ~~~
 
 ~~~
