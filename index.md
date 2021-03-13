@@ -40,7 +40,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <h3 class="h2">Current Projects</h3>
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
-*[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)*
+*[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)*  
 <img src="/assets/img/speedPrior.png" style="width:400px;height:290px;">
 
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
