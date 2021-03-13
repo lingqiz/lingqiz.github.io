@@ -106,7 +106,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  Implementation of basic Whitted Ray-Tracing with Python, and a Monte Carlo Path Tracer with Nvidia OptiX in C++.
+  Basics of physically based rendering: Implementation of basic Whitted Ray-Tracing with Python, and a Monte Carlo Path Tracer with NVIDIA OptiX 6.5 in C++.
   </div>
 </div>
 
