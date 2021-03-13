@@ -40,7 +40,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <h3 class="h2">Current Projects</h3>
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
-*[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)* <br><br>
+*[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)* <br>
 <div class="row">
   <div class="column">
   <img src="/assets/img/speedPrior.png" style="width:400px;height:290px;">
@@ -51,6 +51,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 </div>
 
+<br><br>
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
 *[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[Github\]](https://github.com/isetbio/ISETImagePipeline)*
 
