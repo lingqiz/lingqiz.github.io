@@ -106,7 +106,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  Basics of physically based rendering. Basic implementation of Whitted Ray-Tracing with Python, and a Monte Carlo Path Tracer with Nvidia OptiX in C++.
+  Implementation of a basic Whitted Ray-Tracing with Python, and a Monte Carlo Path Tracer with Nvidia OptiX in C++.
   </div>
 </div>
 
@@ -120,7 +120,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  Implementation of a hierarchical Bayesian model for parameter estimation of a non-trivial psychophysical experiment (inferring the partitioning of internal vs. external noise in depth perception). Posterior computation with Gibbs sampler nested with metropolis-hastings algorithm.
+  Implementation of a hierarchical Bayesian model for parameter estimation of a non-trivial psychophysical experiment (inferring the partitioning of internal vs. external noise in depth perception). Posterior computation with Gibbs sampler nested with Metropolis-Hastings algorithm.
   </div>
 </div>
 
