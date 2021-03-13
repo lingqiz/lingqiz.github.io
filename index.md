@@ -74,9 +74,9 @@ Going forward, I am particularly interested in studying these questions in the c
   <div class="column">
   <img src="/assets/img/encodingASD.png" style="width:400px;height:273;">
   </div>
-  We compare the accuracy of visual orientation encoding between healthy and ASD groups using an information theoretic measure. We found that the ASD group starts with an overall lower encoding capacity, which does not improve when presented with performance feedback. They are also less adaptive to the stimulus statistics.  
-  <div class="column" markdown="1">
   
+  <div class="column" markdown="1">
+  We compare the accuracy of visual orientation encoding between healthy and ASD groups using an information theoretic measure. We found that the ASD group starts with an overall lower encoding capacity, which does not improve when presented with performance feedback. They are also less adaptive to the stimulus statistics in contrast to the healthy subjects.  
   </div>
 </div>
 
@@ -92,7 +92,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  
+  We show that pretrained neural networks, like humans, have internal representations that overrepresent frequent variable values at the expense of certainty for less common values. Furthermore, we demonstrate that optimized readouts of local visual orientation from these networks’ internal representations show similar orientation biases and geometric illusions as human subjects.
   </div>
 </div>
 
