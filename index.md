@@ -25,7 +25,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! Welcome to my website! My name is Ling-Qi, I am a 4th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/). 
+Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺), I am a 4th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/). 
 
 Previously, I did my undergraduate in Computer Science, at Southern University of Science and Technology which is newly established in 2011 at Shenzhen, China. ([Short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631))
 
