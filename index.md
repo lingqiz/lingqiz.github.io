@@ -217,6 +217,6 @@ Philadelphia, PA 19104, U.S.A.
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-right: 100px;
+    padding-right: 10px;
   }
 </style>
