@@ -149,9 +149,9 @@ An image reconstruction framework for characterizing early vision.
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
-Goddard Labs, Room 420
-3710 Hamilton Walk
-Philadelphia, PA 19104, U.S.A.
+Goddard Labs, Room 420  
+3710 Hamilton Walk  
+Philadelphia, PA 19104, U.S.A.  
 
 <p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
 
