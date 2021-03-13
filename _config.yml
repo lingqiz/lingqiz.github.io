@@ -24,7 +24,7 @@ title:                 Ling-Qi Zhang
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  PhD Candidate, Computational Neuroscience
+  PhD Candidate in Computational Neuroscience @ Penn
 
 # A shorter description for the sidebar.
 # tagline: |
@@ -43,7 +43,7 @@ author:
   name:                Ling-Qi Zhang
   email:               <lingqiz@sas.upenn.edu>
   # Used by `jekyll-seo-tag`:
-  twitter:             abirsaha_
+  twitter:             LingCheeseZ
 
 # Add links to the sidebar.
 menu:
