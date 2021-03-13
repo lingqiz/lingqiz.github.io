@@ -48,7 +48,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
+  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of retinal speed, which we validated by analyzing electrophysiology recording of MT neurons.
   </div>
 </div>
 
@@ -153,7 +153,6 @@ Philadelphia, PA 19104
   }
 
   .column {
-    flex: 50%;
-    text-align: center;
+    flex: 50%;    
   }
 </style>
