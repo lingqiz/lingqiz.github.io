@@ -115,6 +115,10 @@ font:                  Nunito Sans, Helvetica, Arial, sans-serif
 # font_heading:          Roboto, Helvetica, Arial, sans-serif
 font_heading:          Nunito Sans, Helvetica, Arial, sans-serif
 
+favicon: /assets/icons/favicon.ico
+
+apple_touch_icon: /assets/icons/apple-touch-icon.png
+
 defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
