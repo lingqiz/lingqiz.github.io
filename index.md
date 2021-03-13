@@ -154,5 +154,6 @@ Philadelphia, PA 19104
 
   .column {
     flex: 50%;
+    text-align: center;
   }
 </style>
