@@ -114,7 +114,6 @@ Philadelphia, PA 19104
     /* display: inline-block; */
   }
 
-
   .body-social > ul > li > a {
     display: inline;
     text-align: center;
