@@ -41,8 +41,8 @@ Going forward, I am particularly interested in studying these questions in the c
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
 <h3 class="h2">Current Projects</h3>
-**ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
-*Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}*
+**Sensory Encoding in Individuals with Autism** 
+*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)*
 
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
 
