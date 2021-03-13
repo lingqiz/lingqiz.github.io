@@ -37,16 +37,18 @@ Going forward, I am particularly interested in studying these questions in the c
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
-
 <h3 class="h2">Current Projects</h3>
+
+**BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
+*[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)* <br>
+
 <div class="row">
   <div class="column">
   <img src="/assets/img/speedPrior.png" style="width:400px;height:290px;">
   </div>
 
   <div class="column" markdown="1">
-  **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
-  *[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)*
+  In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
   </div>
 </div>
 
