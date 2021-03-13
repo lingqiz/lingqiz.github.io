@@ -40,13 +40,13 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <h3 class="h2">Current Projects</h3>
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
-*[\[V-VSS 2021 Poster\]]( )  [\[Code (Behavior)\]](https://github.com/lingqiz/ASD_Encoding_2020) [\[Code (MT Neurons)\]](https://github.com/lingqiz/Analysis_MT)*
+*[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)
 
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
-*[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[Code\]](https://github.com/isetbio/ISETImagePipeline)*
+*[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[Github\]](https://github.com/isetbio/ISETImagePipeline)*
 
 **ABERRANT VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
-*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)  [\[Code\]](https://github.com/lingqiz/ASD_Encoding_2020)*
+*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)*
 
 <h3 class="h2">Past Projects</h3>
 **DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
@@ -100,10 +100,10 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
 
-Northwestern University  
-Frances Searle Building  #2-431  
-2240 Campus Drive  
-Evanston, IL 60208, USA
+Department of Psychology  
+Stephen A. Levin Building
+425 S. University Ave
+Philadelphia, PA 19104
 
 <p class="home-element"><strong>abi<!-- ghuiknh -->r [a<!-- jngingbhir -->t] u [dot] nor<!-- hdfuhfbrhd -->thweste<!-- hfugu -->rn [dot] edu</strong></p>
 
