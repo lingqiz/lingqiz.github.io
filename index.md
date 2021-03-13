@@ -23,7 +23,7 @@ hide_description: true
 	}
 </style>
 
-<h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
+<h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
 Hi there! My name is Ling-Qi. I am a 4th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/). 
 
@@ -36,7 +36,7 @@ I am interested in how the brain works from a computational perspective. Right n
 Going forward, I am particularly interested in studying these questions in the context of complex, naturalistic tasks, to understand the extent to which our brain is indeed "optimal" and its limitations when facing challenging inference problem.
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
+<h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
 <h3 class="h2">Current Projects</h3>
 
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
@@ -48,7 +48,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  
+  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of retinal speed, which we validated by analyzing electrophysiology recording of MT neurons.
   </div>
 </div>
 
@@ -125,7 +125,7 @@ Going forward, I am particularly interested in studying these questions in the c
 </div>
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
+<h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
 <h3 class="h2">Working Papers</h3>
 * **LQ Zhang** and AA Stocker. (in prep)
@@ -138,7 +138,7 @@ An image reconstruction framework for characterizing early vision.
 [Aberrant visual orientation encoding in individuals with autism](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract). bioRxiv, 2020.
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
+<h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
 Department of Psychology  
 Stephen A. Levin Building   
