@@ -62,7 +62,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  We build a Bayesian image reconstruction algorithm based on an accurate model of human early vision, in order to understand information loss at the very first step of visual processing. Our model enables quantitative analysis of retinal mosaic design, visualization, and the more "traditional" ideal observer analysis.
+  We build a Bayesian image reconstruction algorithm from cone excitation signal based on an accurate model of human early vision, in order to understand information loss at the very first step of visual processing. Our model enables quantitative analysis of retinal mosaic design, visualization, and the more "traditional" ideal observer type of analysis.
   </div>
 </div>
 
@@ -143,6 +143,8 @@ An image reconstruction framework for characterizing early vision.
 * MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 6, e5760, 2018.
 
 * Zhiyuan Fang, Lingqi Zhang, and Kun Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). Big Data Analysis (ICBDA), 2016 IEEE International Conference on. IEEE, 2016.
+
+*(† deonotes equal contributions)*
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
