@@ -45,8 +45,10 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column">
+
   **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
   *[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)*
+  
   </div>
 </div>
 
