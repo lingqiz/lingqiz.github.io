@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, a PhD student in the Technology and Social Behavior program at Northwestern University.
+  Personal Website of Ling-Qi Zhang, PhD Candidate in Computational Neuroscience at Penn.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
