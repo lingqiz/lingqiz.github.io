@@ -58,7 +58,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <div class="row">
   <div class="column">
-  <img src="/assets/img/imageRecon.png" style="width:400px;height:370px;">
+  <img src="/assets/img/imageRecon.png" style="width:400px;height:265px;">
   </div>
 
   <div class="column" markdown="1">
@@ -80,6 +80,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 </div>
 
+<br>
 <h3 class="h2">Selected Past Projects</h3>
 
 **PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
@@ -110,6 +111,18 @@ Going forward, I am particularly interested in studying these questions in the c
 </div>
 
 <br>
+**COURSE PROJECT (STAT 927, BAYESIAN STATISTICS)**  
+*[\[Data+Code\]](https://github.com/zlqzcc/DoublePassBayesian)* <br>
+
+<div class="row">
+  <div class="column">
+  <img src="/assets/img/bayesian.png" style="width:400px;height:242px;">
+  </div>
+
+  <div class="column" markdown="1">
+  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  </div>
+</div>
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
