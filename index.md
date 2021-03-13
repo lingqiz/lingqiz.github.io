@@ -31,9 +31,7 @@ Previously, I did my undergraduate in Computer Science, at [Southern University 
 
 I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory system. This consists of mainly two aspects:
 
-1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, often under realistic biological constraint; And 
-
-2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inference problem.
+1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, often under realistic biological constraint; And 2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inference problem.
 
 Going forward, I am particularly interested in studying these questions in the context of complex, naturalistic tasks, to understand the extent to which our brain is indeed "optimal" and its limitations when facing challenging inference problem.
 
@@ -41,14 +39,14 @@ Going forward, I am particularly interested in studying these questions in the c
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
 <h3 class="h2">Current Projects</h3>
-**Aberrant Visual Orientation Encoding in Individuals with Autism**
-*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)[\[Code\]](https://github.com/lingqiz/ASD_Encoding_2020)*
+**BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
+*[\[V-VSS 2021 Poster\]]( )  [\[Code (Behavior)\]](https://github.com/lingqiz/ASD_Encoding_2020) [\[Code (MT Neurons)\]](https://github.com/lingqiz/Analysis_MT)*
 
-**Aberrant Visual Orientation Encoding in Individuals with Autism**
-*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)[\[Code\]](https://github.com/lingqiz/ASD_Encoding_2020)*
+**BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
+*[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[Code\]](https://github.com/isetbio/ISETImagePipeline)*
 
-**Aberrant Visual Orientation Encoding in Individuals with Autism**
-*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)[\[Code\]](https://github.com/lingqiz/ASD_Encoding_2020)*
+**ABERRANT VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
+*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)  [\[Code\]](https://github.com/lingqiz/ASD_Encoding_2020)*
 
 <h3 class="h2">Past Projects</h3>
 **DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
