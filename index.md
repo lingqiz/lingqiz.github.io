@@ -44,11 +44,9 @@ Going forward, I am particularly interested in studying these questions in the c
   <img src="/assets/img/speedPrior.png" style="width:400px;height:290px;">
   </div>
 
-  <div class="column">
-
+  <div class="column" markdown="1">
   **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
   *[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)*
-  
   </div>
 </div>
 
