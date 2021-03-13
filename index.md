@@ -146,15 +146,11 @@ Philadelphia, PA 19104
     transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
   }
 
+  .row {
+    display: flex;
+  }
+
   .column {
-    float: left;
-  }
-
-  .left {
-    width: 45%;
-  }
-
-  .right {
-    width: 45%;
+    flex: 50%;
   }
 </style>
