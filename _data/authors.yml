@@ -4,7 +4,7 @@
 author1:
   # Replace <...> with your own (remove the < >)
   name:              Ling-Qi Zhang
-  # email:             abirsaha056@gmail.com
+  email:             <lingqiz@sas.upenn.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -54,7 +54,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        abirsaha-
+    linkedin:          lingqi-zhang-a30836a9
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
