@@ -74,7 +74,7 @@ Going forward, I am particularly interested in studying these questions in the c
   <div class="column">
   <img src="/assets/img/encodingASD.png" style="width:400px;height:273;">
   </div>
-
+  We compare the accuracy of visual orientation encoding between healthy and ASD groups using an information theoretic measure. We found that the ASD group starts with an overall lower encoding capacity, which does not improve when presented with performance feedback. They are also less adaptive to the stimulus statistics.  
   <div class="column" markdown="1">
   
   </div>
@@ -142,9 +142,9 @@ An image reconstruction framework for characterizing early vision.
 
 * MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 6, e5760, 2018.
 
-* Zhiyuan Fang, Lingqi Zhang, and Kun Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). Big Data Analysis (ICBDA), 2016 IEEE International Conference on. IEEE, 2016.
+* Z Fang, LQ Zhang, and K Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). Big Data Analysis (ICBDA), 2016 IEEE International Conference on. IEEE, 2016.
 
-**(† deonotes equal contributions)**
+** († deonotes equal contributions) **
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
