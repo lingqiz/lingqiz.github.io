@@ -105,7 +105,7 @@ Stephen A. Levin Building
 425 S. University Ave   
 Philadelphia, PA 19104   
 
-<p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
+<p class="home-element"><strong>lingq<!-- ghuiknh -->iz [a<!-- jngingbhir -->t] sas [dot] u<!-- hdfuhfbrhd -->pe<!-- hfugu -->nn [dot] edu</strong></p>
 
 <style type="text/css">
   .body-social > ul {
