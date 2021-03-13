@@ -101,11 +101,11 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
 
 Department of Psychology  
-Stephen A. Levin Building
-425 S. University Ave
-Philadelphia, PA 19104
+Stephen A. Levin Building   
+425 S. University Ave   
+Philadelphia, PA 19104   
 
-<p class="home-element"><strong>abi<!-- ghuiknh -->r [a<!-- jngingbhir -->t] u [dot] nor<!-- hdfuhfbrhd -->thweste<!-- hfugu -->rn [dot] edu</strong></p>
+<p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
 
 <style type="text/css">
   .body-social > ul {
