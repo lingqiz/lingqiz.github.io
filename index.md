@@ -44,7 +44,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <div class="row">
   <div class="column">
-  <img src="/assets/img/speedPrior.png" style="width:400px;height:290px;">
+  <img class="proj-image" src="/assets/img/speedPrior.png" style="width:400px;height:290px;">
   </div>
 
   <div class="column" markdown="1">
@@ -58,7 +58,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <div class="row">
   <div class="column">
-  <img src="/assets/img/imageRecon.png" style="width:400px;height:265px;">
+  <img class="proj-image" src="/assets/img/imageRecon.png" style="width:400px;height:265px;">
   </div>
 
   <div class="column" markdown="1">
@@ -72,7 +72,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <div class="row">
   <div class="column">
-  <img src="/assets/img/encodingASD.png" style="width:400px;height:273;">
+  <img class="proj-image" src="/assets/img/encodingASD.png" style="width:400px;height:273;">
   </div>
   
   <div class="column" markdown="1">
@@ -88,7 +88,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <div class="row">
   <div class="column">
-  <img src="/assets/img/ccn2019.png" style="width:400px;height:318px;">
+  <img class="proj-image" src="/assets/img/ccn2019.png" style="width:400px;height:318px;">
   </div>
 
   <div class="column" markdown="1">
@@ -102,7 +102,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <div class="row">
   <div class="column">
-  <img src="/assets/img/cse167.png" style="width:400px;height:264px;">
+  <img class="proj-image" src="/assets/img/cse167.png" style="width:400px;height:264px;">
   </div>
 
   <div class="column" markdown="1">
@@ -116,7 +116,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <div class="row">
   <div class="column">
-  <img src="/assets/img/bayesian.png" style="width:400px;height:242px;">
+  <img class="proj-image" src="/assets/img/bayesian.png" style="width:400px;height:242px;">
   </div>
 
   <div class="column" markdown="1">
@@ -211,5 +211,11 @@ Philadelphia, PA 19104, U.S.A.
 
   .column {
     flex: 50%;    
+  }
+
+  img.proj-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 </style>
