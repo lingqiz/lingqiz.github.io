@@ -144,7 +144,7 @@ An image reconstruction framework for characterizing early vision.
 
 * Zhiyuan Fang, Lingqi Zhang, and Kun Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). Big Data Analysis (ICBDA), 2016 IEEE International Conference on. IEEE, 2016.
 
-*(† deonotes equal contributions)*
+**(† deonotes equal contributions)**
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
