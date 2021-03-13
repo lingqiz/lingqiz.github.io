@@ -27,7 +27,7 @@ hide_description: true
 
 Hi there! My name is Ling-Qi. I am a 4th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/). 
 
-Previously, I did my undergraduate in Computer Science, at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) which is newly established in 2011 at Shenzhen, China. ([Short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631))
+Previously, I did my undergraduate in Computer Science, at Southern University of Science and Technology which is newly established in 2011 at Shenzhen, China. ([Short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631))
 
 I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory system. This consists of mainly two aspects:
 
@@ -48,7 +48,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  
   </div>
 </div>
 
@@ -76,7 +76,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  
   </div>
 </div>
 
@@ -92,7 +92,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  
   </div>
 </div>
 
@@ -106,7 +106,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  
   </div>
 </div>
 
@@ -120,26 +120,22 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  
   </div>
 </div>
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
 
-<h3 class="h2">Peer-reviewed Conference Papers</h3>
+<h3 class="h2">Working Papers</h3>
+* **LQ Zhang** and AA Stocker. (in prep)
+Psychophysically estimated low-speed prior predicts the encoding characteristics of MT neurons.
 
-* **Abir Saha** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.   
-<span class="icon-award" aria-hidden="true"></span> **Best Paper Nominee**   
-  
+* **LQ Zhang**, NP Cottaris, and DH Brainard. (in prep)
+An image reconstruction framework for characterizing early vision.
 
-* Lin Li, **Abir Saha**, Seeta Ram Pandey, Yaobin Chen, Stanley Chien, and Rini Sherony. Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. In *2019 IEEE Intelligent Transportation Systems Conference (ITSC)*, Auckland, New Zealand, October 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8917344){:target="_blank"}]   
-  
-
-* Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. [From Research to Practice: Informing the Design of Autism Support Smart Technology](https://abirsh.github.io/publications/Autism_CHI18.pdf){:target="_blank"}. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3173574.3173676){:target="_blank"}]   
-  
-
-* **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]   
+* JP Noel†, **LQ Zhang†**, AA Stocker, and DE Angelaki. (under revision)
+[Aberrant visual orientation encoding in individuals with autism](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract). bioRxiv, 2020.
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
