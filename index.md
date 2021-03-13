@@ -48,28 +48,68 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of retinal speed, which we validated by analyzing electrophysiology recording of MT neurons.
+  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
   </div>
 </div>
 
 <br>
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
-*[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[Github\]](https://github.com/isetbio/ISETImagePipeline)*
+*[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[Github\]](https://github.com/isetbio/ISETImagePipeline)* <br>
 
+<div class="row">
+  <div class="column">
+  <img src="/assets/img/imageRecon.png" style="width:400px;height:370px;">
+  </div>
+
+  <div class="column" markdown="1">
+  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  </div>
+</div>
+
+<br>
 **ABERRANT VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
-*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)*
+*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
 
-<h3 class="h2">Past Projects</h3>
-**DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
-*Advisors: [Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}*
+<div class="row">
+  <div class="column">
+  <img src="/assets/img/encodingASD.png" style="width:400px;height:273;">
+  </div>
 
-In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
-<br/>
-**DEVELOPMENT OF TESTING METHODS FOR VEHICLE ROAD DEPARTURE MITIGATION SYSTEMS**  
-*Advisor: [Stanley Chien](https://et.iupui.edu/people/schien){:target="_blank"}*
+  <div class="column" markdown="1">
+  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  </div>
+</div>
 
-In this project sponsored by [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing equipment and methods to evaluate the performance of Road Departure Mitigation systems of self-driving vehicles.  
-Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
+<h3 class="h2">Selected Past Projects</h3>
+
+**PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
+*[\[CCN 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
+
+<div class="row">
+  <div class="column">
+  <img src="/assets/img/ccn2019.png" style="width:400px;height:318px;">
+  </div>
+
+  <div class="column" markdown="1">
+  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  </div>
+</div>
+
+<br>
+**COURSE PROJECT (CSE 167/168X, COMPUTER GRAPHICS)**  
+*[\[Simple Python Ray Tracer\]](https://github.com/lingqiz/CSE-167x-RayTracer)  [\[Path Tracer with OptiX\]](https://github.com/lingqiz/CSE-168x-OptiX)* <br>
+
+<div class="row">
+  <div class="column">
+  <img src="/assets/img/cse167.png" style="width:400px;height:264px;">
+  </div>
+
+  <div class="column" markdown="1">
+  We built an efficient encoding, Bayeisan decoding model for human speed perception in a psychophysical experiment. The model makes specific perdictions regarding the neural encoding characteristics of speed stimuli, which we validated by analyzing electrophysiology recording of MT neurons.
+  </div>
+</div>
+
+<br>
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
