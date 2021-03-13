@@ -25,13 +25,15 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! My name is Ling-Qi. I am a 4th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/). 
+Hi there! My name is Ling-Qi. I am a 4th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/). 
 
 Previously, I did my undergraduate in Computer Science, at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) which is newly established in 2011 at Shenzhen, China. ([Short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631))
 
 I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory system. This consists of mainly two aspects:
 
-1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, often under realistic biological constraint; And 2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inference problem.
+1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, often under realistic biological constraint; And 
+
+2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inference problem.
 
 Going forward, I am particularly interested in studying these questions in the context of complex, naturalistic tasks, to understand the extent to which our brain is indeed "optimal" and its limitations when facing challenging inference problem.
 
