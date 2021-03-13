@@ -97,7 +97,7 @@ Going forward, I am particularly interested in studying these questions in the c
 </div>
 
 <br>
-**COURSE PROJECT (CSE 167/168X, COMPUTER GRAPHICS)**  
+**COURSE PROJECT (CSE 167x/168x, COMPUTER GRAPHICS)**  
 *[\[Simple Python Ray Tracer\]](https://github.com/lingqiz/CSE-167x-RayTracer)  [\[Path Tracer with OptiX\]](https://github.com/lingqiz/CSE-168x-OptiX)* <br>
 
 <div class="row">
@@ -149,10 +149,9 @@ An image reconstruction framework for characterizing early vision.
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
-Department of Psychology  
-Stephen A. Levin Building   
-425 S. University Ave   
-Philadelphia, PA 19104   
+Goddard Labs, Room 420
+3710 Hamilton Walk
+Philadelphia, PA 19104, U.S.A.
 
 <p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
 
