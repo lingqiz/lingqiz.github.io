@@ -41,8 +41,15 @@ Going forward, I am particularly interested in studying these questions in the c
 <h3 class="h2">Current Projects</h3>
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
 *[\[V-VSS 2021 Poster\]]()  [\[Data+Code\]](https://github.com/lingqiz/EfficientCoding)* <br><br>
-<img src="/assets/img/speedPrior.png" style="width:400px;height:290px;">
-In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
+<div class="row">
+  <div class="column">
+  <img src="/assets/img/speedPrior.png" style="width:400px;height:290px;">
+  </div>
+
+  <div class="column">
+  In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
+  </div>
+</div>
 
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
 *[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[Github\]](https://github.com/isetbio/ISETImagePipeline)*
@@ -138,5 +145,17 @@ Philadelphia, PA 19104
     border-radius: 5px;
     padding: 4px;
     transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
+  }
+
+  .column {
+    float: left;
+  }
+
+  .left {
+    width: 45%;
+  }
+
+  .right {
+    width: 45%;
   }
 </style>
