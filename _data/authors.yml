@@ -8,8 +8,7 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Hi, I'm Ling-Qi Zhang.
+  about:             Hi, I'm Ling-Qi Zhang.
 
   # This photo will be used in the about section.
   picture:
@@ -22,9 +21,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:          LingCheeseZ    
     googlescholar:    zig9OAUAAAAJ
     github:           lingqiz
+    twitter:          LingCheeseZ    
+    linkedin:         lingqi-zhang-a30836a9
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -54,7 +54,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:          lingqi-zhang-a30836a9
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
