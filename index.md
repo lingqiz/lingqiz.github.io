@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Ling-Qi Zhang, PhD Candidate in Computational Neuroscience at Penn.
+  Personal Website of Ling-Qi, PhD Candidate in Computational Neuroscience at Penn.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
