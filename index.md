@@ -25,23 +25,8 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
-
-Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
-
-My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support creative work practices of people with disabilities.  
-
-I love traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. 
-<!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
-
-<div class="body-social sidebar-social">
-  <ul>
-    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Abir Saha's Google Scholar page</span></a></li>
-    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li>
-    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Abir Saha's LinkedIn profile</span></a></li>
-    <li> <a href="https://instagram.com/abirsaha_" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li>
-  </ul>
-</div>
+Hi! My name is Ling-Qi. I am a 4th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/). Previously, I did my undergraduate in Computer Science, 
+at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) which is newly established in 2011 at Shenzhen, China. ([Short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631))
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
