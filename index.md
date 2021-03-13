@@ -62,7 +62,7 @@ Going forward, I am particularly interested in studying these questions in the c
   </div>
 
   <div class="column" markdown="1">
-  We built a Bayesian image reconstruction algorithm from cone excitation signal based on an accurate model of human early vision, in order to understand information loss at the very first step of visual processing. Our model enables quantitative analysis of retinal mosaic design, visualization, and the more "traditional" ideal observer type of analysis.
+  We built a Bayesian image reconstruction algorithm from cone excitations based on an accurate model of human early vision, in order to understand information loss at the very first step of visual processing. Our model enables quantitative analysis of retinal mosaic design, visualization, and the more "traditional" ideal observer type of analysis.
   </div>
 </div>
 
