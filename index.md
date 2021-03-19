@@ -6,9 +6,6 @@ description: >
   Personal Website of Ling-Qi, PhD Candidate in Computational Neuroscience at Penn.
 hide_description: true
 ---
-<!-- <script type="text/javascript">
-	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
-</script> -->
 
 <style type="text/css">
 	.page-title {
