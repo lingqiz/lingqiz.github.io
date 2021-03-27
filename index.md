@@ -51,7 +51,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <br>
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
-*[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[Github\]](https://github.com/isetbio/ISETImagePipeline)* <br>
+*[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
 
 <div class="row">
   <div class="column">
