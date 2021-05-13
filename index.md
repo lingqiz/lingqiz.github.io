@@ -37,7 +37,7 @@ Going forward, I am particularly interested in studying these questions in the c
 <h3 class="h2">Current Projects</h3>
 
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
-*[\[V-VSS 2021 Poster\]]()* <br>
+*[\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)* <br>
 
 <div class="row">
   <div class="column">
@@ -65,7 +65,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <br>
 **ABERRANT VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
-*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
+*[\[PLOS Biology\]](https://doi.org/10.1371/journal.pbio.3001215)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
 
 <div class="row">
   <div class="column">
