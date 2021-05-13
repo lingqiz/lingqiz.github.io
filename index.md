@@ -132,6 +132,7 @@ Psychophysically estimated low-speed prior predicts the encoding characteristics
 An image reconstruction framework for characterizing early vision.
 
 <h3 class="h2">Peer-reviewed Publications</h3>
+
 * JP Noel†, **LQ Zhang†**, AA Stocker, and DE Angelaki.
 [Individuals with autism spectrum disorder have altered visual encoding capacity](https://doi.org/10.1371/journal.pbio.3001215). PLOS Biology, 2021.
 
