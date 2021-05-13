@@ -131,18 +131,17 @@ Psychophysically estimated low-speed prior predicts the encoding characteristics
 * **LQ Zhang**, NP Cottaris, and DH Brainard. (in prep)
 An image reconstruction framework for characterizing early vision.
 
-* JP Noel†, **LQ Zhang†**, AA Stocker, and DE Angelaki. (under revision)
-[Aberrant visual orientation encoding in individuals with autism](https://www.biorxiv.org/content/10.1101/2020.03.04.976191v1.abstract). bioRxiv, 2020.
-
 <h3 class="h2">Peer-reviewed Publications</h3>
+* JP Noel†, **LQ Zhang†**, AA Stocker, and DE Angelaki.
+[Individuals with autism spectrum disorder have altered visual encoding capacity](https://doi.org/10.1371/journal.pbio.3001215). PLOS Biology, 2021.
+
 * AS Benjamin†, C Qiu†, **LQ Zhang†**, KP Kording, and AA Stocker. [Shared visual illusions between humans and artificial neural networks](https://ccneuro.org/2019/proceedings/0000585.pdf). 2019 Conference on Cognitive Computational Neuroscience, 13-16 September 2019, Berlin, Germany.
 
 * MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 6, e5760, 2018.
 
 * Z Fang, LQ Zhang, and K Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). Big Data Analysis (ICBDA), 2016 IEEE International Conference on. IEEE, 2016.
 
-**(† deonotes equal contributions)**
-
+**(† deonotes co-first authorship)**
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
