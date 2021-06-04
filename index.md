@@ -78,7 +78,6 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-
 **PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
 *[\[CCN 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
 
