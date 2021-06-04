@@ -30,7 +30,7 @@ I am interested in how the brain works from a computational perspective. Right n
 
 1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, often under realistic biological constraint; And 2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inference problem.
 
-Going forward, I am particularly interested in studying these questions in the context of complex, naturalistic tasks, to understand the extent to which our brain is indeed "optimal" and its limitations when facing challenging inference problem.
+I am particularly interested in studying these questions in the context of complex, naturalistic tasks, to understand the extent to which our brain is indeed "optimal" and its limitations when facing challenging inference problem.
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
