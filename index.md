@@ -34,7 +34,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
-<h3 class="h2">Current Projects</h3>
+<h3 class="h2">Selected Projects</h3>
 
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
 *[\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)* <br>
@@ -51,7 +51,7 @@ Going forward, I am particularly interested in studying these questions in the c
 
 <br>
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
-*[\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
+*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2021.06.02.446829v1)  [\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
 
 <div class="row">
   <div class="column">
@@ -78,7 +78,6 @@ Going forward, I am particularly interested in studying these questions in the c
 </div>
 
 <br>
-<h3 class="h2">Selected Past Projects</h3>
 
 **PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
 *[\[CCN 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
@@ -128,8 +127,8 @@ Going forward, I am particularly interested in studying these questions in the c
 * **LQ Zhang** and AA Stocker. (in prep)
 Psychophysically estimated low-speed prior predicts the encoding characteristics of MT neurons.
 
-* **LQ Zhang**, NP Cottaris, and DH Brainard. (in prep)
-An image reconstruction framework for characterizing early vision.
+* **LQ Zhang**, NP Cottaris, and DH Brainard. (preprint)
+[An image reconstruction framework for characterizing early vision](https://www.biorxiv.org/content/10.1101/2021.06.02.446829v1). bioRxiv, 2021.
 
 <h3 class="h2">Peer-reviewed Publications</h3>
 
