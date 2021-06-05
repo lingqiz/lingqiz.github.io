@@ -73,7 +73,7 @@ I am particularly interested in studying these questions in the context of compl
   </div>
   
   <div class="column" markdown="1">
-  We compared the accuracy of visual orientation encoding between healthy and ASD groups using an information theoretic measure. We found that the ASD group starts with an overall lower encoding capacity, which does not improve when presented with performance feedback. They are also less adaptive to the stimulus statistics in contrast to the healthy subjects.  
+  We compared the accuracy of visual orientation encoding between neurotypical and ASD groups using an information theoretic measure. We found that the ASD group starts with an overall lower encoding capacity, which does not improve when presented with performance feedback. They are also less adaptive to the stimulus statistics in contrast to the neurotypical subjects.  
   </div>
 </div>
 
