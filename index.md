@@ -28,7 +28,7 @@ Previously, I did my undergraduate in Computer Science, at Southern University o
 
 I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory perception. This consists of mainly two aspects:
 
-1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, under realistic biological constraint; And 2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inverse problems.
+1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, under realistic biological constraints; And 2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inverse problems.
 
 I am particularly interested in studying these questions in the context of complex, naturalistic tasks, to understand the extent to which our brain is indeed "optimal" and its limitations when facing challenging inference problem.
 
@@ -64,7 +64,7 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-** VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
+**VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
 *[\[PLOS Biology\]](https://doi.org/10.1371/journal.pbio.3001215)  [\[Primer\]](https://doi.org/10.1371/journal.pbio.3001293)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
 
 <div class="row">
