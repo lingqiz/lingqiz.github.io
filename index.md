@@ -124,7 +124,7 @@ I am particularly interested in studying these questions in the context of compl
 
 <h3 class="h2">Working Papers</h3>
 * **LQ Zhang** and AA Stocker. (in prep)
-Psychophysically estimated low-speed prior predicts the encoding characteristics of MT neurons.
+Prior expectations in visual speed perception quantitatively predict encoding characteristics of neurons in area MT.
 
 * **LQ Zhang**, NP Cottaris, and DH Brainard. (preprint)
 [An image reconstruction framework for characterizing early vision](https://www.biorxiv.org/content/10.1101/2021.06.02.446829v1). bioRxiv, 2021.
