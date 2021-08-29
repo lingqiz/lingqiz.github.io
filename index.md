@@ -37,7 +37,7 @@ I am particularly interested in studying these questions in the context of compl
 <h3 class="h2">Selected Projects</h3>
 
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
-*[\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)* <br>
+*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2021.06.02.446829v1)  [\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)  [\[GitHub\]](https://github.com/lingqiz/Speed_Prior_2021)* <br>
 
 <div class="row">
   <div class="column">
@@ -123,8 +123,8 @@ I am particularly interested in studying these questions in the context of compl
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
 <h3 class="h2">Working Papers</h3>
-* **LQ Zhang** and AA Stocker. (in prep)
-Prior expectations in visual speed perception quantitatively predict encoding characteristics of neurons in area MT.
+* **LQ Zhang** and AA Stocker. (preprint)
+[Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.biorxiv.org/content/10.1101/2021.08.23.457358v1). bioRxiv, 2021.
 
 * **LQ Zhang**, NP Cottaris, and DH Brainard. (preprint)
 [An image reconstruction framework for characterizing early vision](https://www.biorxiv.org/content/10.1101/2021.06.02.446829v1). bioRxiv, 2021.
