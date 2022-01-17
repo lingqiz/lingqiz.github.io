@@ -51,7 +51,7 @@ I am particularly interested in studying these questions in the context of compl
 
 <br>
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
-*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2021.06.02.446829v1)  [\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
+*[\[eLife\]](https://elifesciences.org/articles/71132)  [\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
 
 <div class="row">
   <div class="column">
@@ -126,10 +126,10 @@ I am particularly interested in studying these questions in the context of compl
 * **LQ Zhang** and AA Stocker. (preprint)
 [Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.biorxiv.org/content/10.1101/2021.08.23.457358v1). bioRxiv, 2021.
 
-* **LQ Zhang**, NP Cottaris, and DH Brainard. (preprint)
-[An image reconstruction framework for characterizing early vision](https://www.biorxiv.org/content/10.1101/2021.06.02.446829v1). bioRxiv, 2021.
-
 <h3 class="h2">Peer-reviewed Publications</h3>
+
+* **LQ Zhang**, NP Cottaris, and DH Brainard.
+[An image reconstruction framework for characterizing initial visual encoding](https://elifesciences.org/articles/71132). eLife, 2022.
 
 * JP Noel†, **LQ Zhang†**, AA Stocker, and DE Angelaki.
 [Individuals with autism spectrum disorder have altered visual encoding capacity](https://doi.org/10.1371/journal.pbio.3001215). PLOS Biology, 2021.
