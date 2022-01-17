@@ -51,7 +51,7 @@ I am particularly interested in studying these questions in the context of compl
 
 <br>
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
-*[\[eLife\]](https://elifesciences.org/articles/71132)  [\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
+*[\[eLife, 2022\]](https://elifesciences.org/articles/71132)  [\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
 
 <div class="row">
   <div class="column">
@@ -65,7 +65,7 @@ I am particularly interested in studying these questions in the context of compl
 
 <br>
 **VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
-*[\[PLOS Biology\]](https://doi.org/10.1371/journal.pbio.3001215)  [\[Primer\]](https://doi.org/10.1371/journal.pbio.3001293)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
+*[\[PLOS Biology, 2021\]](https://doi.org/10.1371/journal.pbio.3001215)  [\[Primer\]](https://doi.org/10.1371/journal.pbio.3001293)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
 
 <div class="row">
   <div class="column">
@@ -79,7 +79,7 @@ I am particularly interested in studying these questions in the context of compl
 
 <br>
 **PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
-*[\[CCN 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
+*[\[CCN, 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
 
 <div class="row">
   <div class="column">
