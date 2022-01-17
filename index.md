@@ -123,6 +123,7 @@ I am particularly interested in studying these questions in the context of compl
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
 <h3 class="h2">Working Papers</h3>
+
 * **LQ Zhang** and AA Stocker. (preprint)
 [Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.biorxiv.org/content/10.1101/2021.08.23.457358v1). bioRxiv, 2021.
 
@@ -134,11 +135,11 @@ I am particularly interested in studying these questions in the context of compl
 * JP Noel†, **LQ Zhang†**, AA Stocker, and DE Angelaki.
 [Individuals with autism spectrum disorder have altered visual encoding capacity](https://doi.org/10.1371/journal.pbio.3001215). PLOS Biology, 2021.
 
-* AS Benjamin†, C Qiu†, **LQ Zhang†**, KP Kording, and AA Stocker. [Shared visual illusions between humans and artificial neural networks](https://ccneuro.org/2019/proceedings/0000585.pdf). 2019 Conference on Cognitive Computational Neuroscience, 13-16 September 2019, Berlin, Germany.
+* AS Benjamin†, C Qiu†, **LQ Zhang†**, KP Kording, and AA Stocker. [Shared visual illusions between humans and artificial neural networks](https://ccneuro.org/2019/proceedings/0000585.pdf). 2019 Conference on Cognitive Computational Neuroscience.
 
-* MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 6, e5760, 2018.
+* MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 2018.
 
-* Z Fang, LQ Zhang, and K Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). Big Data Analysis (ICBDA), 2016 IEEE International Conference on. IEEE, 2016.
+* Z Fang, LQ Zhang, and K Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). 2016 IEEE International Conference Big Data Analysis (ICBDA).
 
 **(† deonotes co-first authorship)**
 
