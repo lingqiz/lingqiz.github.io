@@ -122,13 +122,8 @@ I am particularly interested in studying these questions in the context of compl
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
-<h3 class="h2">Working Papers</h3>
-
 * **LQ Zhang** and AA Stocker. (preprint)
 [Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.biorxiv.org/content/10.1101/2021.08.23.457358v1). bioRxiv, 2021.
-
-
-<h3 class="h2">Peer-reviewed Publications</h3>
 
 * **LQ Zhang**, NP Cottaris, and DH Brainard.
 [An image reconstruction framework for characterizing initial visual encoding](https://elifesciences.org/articles/71132). eLife, 2022.
