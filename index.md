@@ -37,7 +37,7 @@ I am particularly interested in studying these questions in the context of compl
 <h3 class="h2">Selected Projects</h3>
 
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
-*[\[bioRxiv\]](https://www.biorxiv.org/content/10.1101/2021.08.23.457358v1)  [\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)  [\[GitHub\]](https://github.com/lingqiz/Speed_Prior_2021)* <br>
+*[\[JNeurosci, 2022\]](https://www.jneurosci.org/content/early/2022/02/14/JNEUROSCI.1920-21.2022)  [\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)  [\[GitHub\]](https://github.com/lingqiz/Speed_Prior_2021)* <br>
 
 <div class="row">
   <div class="column">
