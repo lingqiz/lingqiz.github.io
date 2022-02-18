@@ -123,7 +123,7 @@ I am particularly interested in studying these questions in the context of compl
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
 * **LQ Zhang** and AA Stocker.
-[Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.jneurosci.org/content/early/2022/02/14/JNEUROSCI.1920-21.2022). Journal of Neuroscience (in press), 2021.
+[Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.jneurosci.org/content/early/2022/02/14/JNEUROSCI.1920-21.2022). Journal of Neuroscience (in press), 2022.
 
 * **LQ Zhang**, NP Cottaris, and DH Brainard.
 [An image reconstruction framework for characterizing initial visual encoding](https://elifesciences.org/articles/71132). eLife, 2022.
