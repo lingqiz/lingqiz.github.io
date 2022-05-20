@@ -26,7 +26,7 @@ Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺), I am a 5t
 
 Previously, I did my undergraduate in Computer Science, at Southern University of Science and Technology which is newly established in 2011 at Shenzhen, China. ([Short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631))
 
-You can find a copy of my CV [here](https://github.com/lingqiz/lingqiz.github.io/blob/master/assets/Lingqi_CV.pdf).
+You can find a copy of my CV [here](https://drive.google.com/file/d/16KW8jVQ18QkFzBzW4cYb4JFqSmoRVIru/view?usp=sharing).
 
 I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory perception. This consists of mainly two aspects:
 
