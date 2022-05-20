@@ -22,9 +22,11 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺), I am a 5th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/). 
+Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺), I am a 5th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/).
 
 Previously, I did my undergraduate in Computer Science, at Southern University of Science and Technology which is newly established in 2011 at Shenzhen, China. ([Short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631))
+
+You can find a copy of my CV [here]().
 
 I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory perception. This consists of mainly two aspects:
 
@@ -36,7 +38,7 @@ I am particularly interested in studying these questions in the context of compl
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
 <h3 class="h2">Selected Projects</h3>
 
-**BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
+**BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**
 *[\[JNeurosci, 2022\]](https://www.jneurosci.org/content/42/14/2951)  [\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)  [\[GitHub\]](https://github.com/lingqiz/Speed_Prior_2021)* <br>
 
 <div class="row">
@@ -50,7 +52,7 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-**BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
+**BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**
 *[\[eLife, 2022\]](https://elifesciences.org/articles/71132)  [\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
 
 <div class="row">
@@ -64,21 +66,21 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-**VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
+**VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**
 *[\[PLOS Biology, 2021\]](https://doi.org/10.1371/journal.pbio.3001215)  [\[Primer\]](https://doi.org/10.1371/journal.pbio.3001293)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
 
 <div class="row">
   <div class="column">
   <img class="proj-image" src="/assets/img/encodingASD.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
-  
+
   <div class="column" markdown="1">
-  We compared the accuracy of visual orientation encoding between neurotypical and ASD groups using an information theoretic measure. We found that the ASD group starts with an overall lower encoding capacity, which does not improve when presented with performance feedback. They are also less adaptive to the stimulus statistics in contrast to the neurotypical subjects.  
+  We compared the accuracy of visual orientation encoding between neurotypical and ASD groups using an information theoretic measure. We found that the ASD group starts with an overall lower encoding capacity, which does not improve when presented with performance feedback. They are also less adaptive to the stimulus statistics in contrast to the neurotypical subjects.
   </div>
 </div>
 
 <br>
-**PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
+**PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**
 *[\[CCN, 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
 
 <div class="row">
@@ -92,7 +94,7 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-**COURSE PROJECT (CSE 167x/168x, COMPUTER GRAPHICS)**  
+**COURSE PROJECT (CSE 167x/168x, COMPUTER GRAPHICS)**
 *[\[Simple Python Ray Tracer\]](https://github.com/lingqiz/CSE-167x-RayTracer)  [\[Path Tracer with OptiX\]](https://github.com/lingqiz/CSE-168x-OptiX)* <br>
 
 <div class="row">
@@ -106,7 +108,7 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-**COURSE PROJECT (STAT 927, BAYESIAN STATISTICS)**  
+**COURSE PROJECT (STAT 927, BAYESIAN STATISTICS)**
 *[\[Data+Code\]](https://github.com/zlqzcc/DoublePassBayesian)* <br>
 
 <div class="row">
@@ -121,6 +123,9 @@ I am particularly interested in studying these questions in the context of compl
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
+
+* (pre-print) AS Benjamin, **LQ Zhang** C Qiu, AA Stocker, and KP Kording.
+[Efficient neural codes naturally emerge through gradient descent learning](https://www.biorxiv.org/content/10.1101/2022.05.11.491548v1). bioRxiv, 2022.
 
 * **LQ Zhang** and AA Stocker.
 [Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.jneurosci.org/content/42/14/2951). Journal of Neuroscience, 2022.
@@ -142,9 +147,9 @@ I am particularly interested in studying these questions in the context of compl
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
-Goddard Labs, Room 420  
-3710 Hamilton Walk  
-Philadelphia, PA 19104, U.S.A.  
+Goddard Labs, Room 420
+3710 Hamilton Walk
+Philadelphia, PA 19104, U.S.A.
 
 <p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
 
@@ -159,10 +164,10 @@ Philadelphia, PA 19104, U.S.A.
 
   .body-social > ul > li {
     float: left;
-    
+
     /* padding-left: 5px; */
     padding-right: 10px;
-    
+
     /* display: inline-block; */
   }
 
@@ -174,15 +179,15 @@ Philadelphia, PA 19104, U.S.A.
     /*width: 3rem;*/
     /*height: 4rem;*/
     padding: 4px;
-    
+
     /* line-height: 3rem; */
-    
+
     text-decoration: none;
     border-width: 1px;
     border-style: solid;
     border-radius: 5px;
     transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
-    
+
     /* border-bottom: none; */
   }
 
@@ -203,11 +208,11 @@ Philadelphia, PA 19104, U.S.A.
   }
 
   .column {
-    flex: 50%;    
+    flex: 50%;
   }
 
   img.proj-image {
-    display: block;    
+    display: block;
     margin-right: auto;
     padding-right: 20px;
   }
