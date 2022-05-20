@@ -145,9 +145,8 @@ I am particularly interested in studying these questions in the context of compl
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
-Goddard Labs, Room 420
-3710 Hamilton Walk
-Philadelphia, PA 19104, U.S.A.
+425 S. University Ave  
+Philadelphia, PA 19104  
 
 <p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
 
