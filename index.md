@@ -26,7 +26,7 @@ Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺), I am a 5t
 
 Previously, I did my undergraduate in Computer Science, at Southern University of Science and Technology which is newly established in 2011 at Shenzhen, China. ([Short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631))
 
-You can find a copy of my CV [here]().
+You can find a copy of my CV [here](https://github.com/lingqiz/lingqiz.github.io/blob/master/assets/Lingqi_CV.pdf).
 
 I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory perception. This consists of mainly two aspects:
 
@@ -124,7 +124,7 @@ I am particularly interested in studying these questions in the context of compl
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
-* (pre-print) AS Benjamin, **LQ Zhang** C Qiu, AA Stocker, and KP Kording.
+* (pre-print) AS Benjamin, **LQ Zhang**, C Qiu, AA Stocker, and KP Kording.
 [Efficient neural codes naturally emerge through gradient descent learning](https://www.biorxiv.org/content/10.1101/2022.05.11.491548v1). bioRxiv, 2022.
 
 * **LQ Zhang** and AA Stocker.
@@ -140,7 +140,7 @@ I am particularly interested in studying these questions in the context of compl
 
 * MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 2018.
 
-* Z Fang, LQ Zhang, and K Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). 2016 IEEE International Conference Big Data Analysis (ICBDA).
+* Z Fang, **LQ Zhang**, and K Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). 2016 IEEE International Conference Big Data Analysis (ICBDA).
 
 **(† deonotes co-first authorship)**
 
