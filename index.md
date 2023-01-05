@@ -123,7 +123,7 @@ I am particularly interested in studying these questions in the context of compl
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
 * AS Benjamin, **LQ Zhang**, C Qiu, AA Stocker, and KP Kording.
-[Efficient neural codes naturally emerge through gradient descent learning](https://www.biorxiv.org/content/10.1101/2022.05.11.491548v1). Nature Communications (in press), 2022.
+[Efficient neural codes naturally emerge through gradient descent learning](https://www.nature.com/articles/s41467-022-35659-7). Nature Communications, 2022.
 
 * **LQ Zhang** and AA Stocker.
 [Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.jneurosci.org/content/42/14/2951). Journal of Neuroscience, 2022.
@@ -137,8 +137,6 @@ I am particularly interested in studying these questions in the context of compl
 * AS Benjamin†, C Qiu†, **LQ Zhang†**, KP Kording, and AA Stocker. [Shared visual illusions between humans and artificial neural networks](https://ccneuro.org/2019/proceedings/0000585.pdf). 2019 Conference on Cognitive Computational Neuroscience.
 
 * MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 2018.
-
-* Z Fang, **LQ Zhang**, and K Chen. [A behavior mining based hybrid recommender system](https://ieeexplore.ieee.org/abstract/document/7509785/). 2016 IEEE International Conference Big Data Analysis (ICBDA).
 
 **(† deonotes co-first authorship)**
 
