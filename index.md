@@ -32,7 +32,7 @@ I study how biological and artificial systems solve challenging computational pr
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
 <h3 class="h2">Selected Projects</h3>
 
-**BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**
+**BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
 *[\[JNeurosci, 2022\]](https://www.jneurosci.org/content/42/14/2951)  [\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)  [\[GitHub\]](https://github.com/lingqiz/Speed_Prior_2021)* <br>
 
 <div class="row">
@@ -46,7 +46,7 @@ I study how biological and artificial systems solve challenging computational pr
 </div>
 
 <br>
-**BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**
+**BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
 *[\[eLife, 2022\]](https://elifesciences.org/articles/71132)  [\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
 
 <div class="row">
@@ -60,7 +60,7 @@ I study how biological and artificial systems solve challenging computational pr
 </div>
 
 <br>
-**VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**
+**VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
 *[\[PLOS Biology, 2021\]](https://doi.org/10.1371/journal.pbio.3001215)  [\[Primer\]](https://doi.org/10.1371/journal.pbio.3001293)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
 
 <div class="row">
@@ -74,7 +74,7 @@ I study how biological and artificial systems solve challenging computational pr
 </div>
 
 <br>
-**PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**
+**PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
 *[\[CCN, 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
 
 <div class="row">
@@ -88,7 +88,7 @@ I study how biological and artificial systems solve challenging computational pr
 </div>
 
 <br>
-**COURSE PROJECT (CSE 167x/168x, COMPUTER GRAPHICS)**
+**COURSE PROJECT (CSE 167x/168x, COMPUTER GRAPHICS)**  
 *[\[Simple Python Ray Tracer\]](https://github.com/lingqiz/CSE-167x-RayTracer)  [\[Path Tracer with OptiX\]](https://github.com/lingqiz/CSE-168x-OptiX)* <br>
 
 <div class="row">
@@ -102,7 +102,7 @@ I study how biological and artificial systems solve challenging computational pr
 </div>
 
 <br>
-**COURSE PROJECT (STAT 927, BAYESIAN STATISTICS)**
+**COURSE PROJECT (STAT 927, BAYESIAN STATISTICS)**  
 *[\[Data+Code\]](https://github.com/zlqzcc/DoublePassBayesian)* <br>
 
 <div class="row">
@@ -139,7 +139,7 @@ I study how biological and artificial systems solve challenging computational pr
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
-425 S. University Ave
+425 S. University Ave  
 Philadelphia, PA 19104
 
 <p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
