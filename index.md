@@ -22,21 +22,15 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺), I am a 6th year PhD student at the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) in the [Department of Psychology](https://psychology.sas.upenn.edu) and the [Computational Neuroscience Initiative](http://cni.upenn.edu/).
+Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺). I received my Ph.D. from the University of Pennsylvania working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php), studying computational models of perception and visual system. I also hold an M.A. in Statistics from Penn. Previously, I got my B.E. in Computer Science, from Southern University of Science and Technology, which is newly established in 2011 at Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)).
 
-Previously, I did my undergraduate in Computer Science, at Southern University of Science and Technology which is newly established in 2011 at Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)).
-
-I am interested in how the brain works from a computational perspective. Right now, my research focuses on how regularities in the generative structure of our visual world shape our sensory perception. This consists of mainly two aspects:
-
-1) Efficient coding, which studies how the brain should optimize its representation to maximize the amount of information transmission, under realistic biological constraints; And 2) Bayesian inference, which studies if and what prior regularities the brain makes use of to solve ambiguous inverse problems.
-
-I am particularly interested in studying these questions in the context of complex, naturalistic tasks, to understand the extent to which our brain is indeed "optimal" and its limitations when facing challenging inference problem.
+I study how biological and artificial systems solve challenging computational problems efficiently, using a combination of theoretical and experimental approaches. See below for some of my projects!
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
 <h3 class="h2">Selected Projects</h3>
 
-**BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
+**BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**
 *[\[JNeurosci, 2022\]](https://www.jneurosci.org/content/42/14/2951)  [\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)  [\[GitHub\]](https://github.com/lingqiz/Speed_Prior_2021)* <br>
 
 <div class="row">
@@ -50,7 +44,7 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-**BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
+**BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**
 *[\[eLife, 2022\]](https://elifesciences.org/articles/71132)  [\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
 
 <div class="row">
@@ -64,7 +58,7 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-**VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
+**VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**
 *[\[PLOS Biology, 2021\]](https://doi.org/10.1371/journal.pbio.3001215)  [\[Primer\]](https://doi.org/10.1371/journal.pbio.3001293)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
 
 <div class="row">
@@ -78,7 +72,7 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-**PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
+**PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**
 *[\[CCN, 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
 
 <div class="row">
@@ -92,7 +86,7 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-**COURSE PROJECT (CSE 167x/168x, COMPUTER GRAPHICS)**  
+**COURSE PROJECT (CSE 167x/168x, COMPUTER GRAPHICS)**
 *[\[Simple Python Ray Tracer\]](https://github.com/lingqiz/CSE-167x-RayTracer)  [\[Path Tracer with OptiX\]](https://github.com/lingqiz/CSE-168x-OptiX)* <br>
 
 <div class="row">
@@ -106,7 +100,7 @@ I am particularly interested in studying these questions in the context of compl
 </div>
 
 <br>
-**COURSE PROJECT (STAT 927, BAYESIAN STATISTICS)**  
+**COURSE PROJECT (STAT 927, BAYESIAN STATISTICS)**
 *[\[Data+Code\]](https://github.com/zlqzcc/DoublePassBayesian)* <br>
 
 <div class="row">
@@ -143,8 +137,8 @@ I am particularly interested in studying these questions in the context of compl
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
-425 S. University Ave  
-Philadelphia, PA 19104  
+425 S. University Ave
+Philadelphia, PA 19104
 
 <p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
 
