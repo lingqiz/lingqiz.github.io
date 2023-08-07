@@ -26,7 +26,7 @@ Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺). I recentl
 
 Previously, I got my B.E. in Computer Science, from Southern University of Science and Technology, which is newly established in 2011 at Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)).
 
-I study how biological and artificial systems solve challenging computational problems efficiently, using a combination of theoretical and experimental approaches. See below for some of my projects!
+I am generally interested in how biological and artificial systems solve challenging computational problems efficiently, using a combination of theoretical and experimental approaches. See below for some of my projects!
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
