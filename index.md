@@ -24,6 +24,8 @@ hide_description: true
 
 Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺). I recently received my Ph.D. from the University of Pennsylvania, working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) on computational models of perception and visual system. I also hold an M.A. in Statistics from Penn.
 
+I will join the [Janelia Research Campus](https://www.janelia.org/) as a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) in October 2023.
+
 Previously, I got my B.E. in Computer Science, from Southern University of Science and Technology, which is newly established in 2011 at Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)).
 
 I am generally interested in how biological and artificial systems solve challenging computational problems efficiently, using a combination of theoretical and experimental approaches. See below for some of my projects!
