@@ -22,9 +22,9 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺). I recently received my Ph.D. from the University of Pennsylvania, working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) on computational models of perception and visual system. I also hold an M.A. in Statistics from Penn.
+Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺). Starting October 2023, I have joined [Janelia Research Campus](https://www.janelia.org/) as a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows).
 
-I will join the [Janelia Research Campus](https://www.janelia.org/) as a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) in October 2023.
+I received my Ph.D. from the University of Pennsylvania, working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) on computational models of perception and visual system. I also hold an M.A. in Statistics from Penn.
 
 Previously, I got my B.E. in Computer Science, from Southern University of Science and Technology, which is newly established in 2011 at Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)).
 
