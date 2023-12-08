@@ -77,8 +77,7 @@ I am generally interested in how biological and artificial systems solve challen
 
 <br>
 **PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
-*[\[CCN, 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
-*[\[Nat. Commun., 2022\]](https://www.nature.com/articles/s41467-022-35659-7)* <br>
+*[\[CCN, 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)  [\[Nat. Commun., 2022\]](https://www.nature.com/articles/s41467-022-35659-7)* <br>
 
 <div class="row">
   <div class="column">
@@ -86,7 +85,7 @@ I am generally interested in how biological and artificial systems solve challen
   </div>
 
   <div class="column" markdown="1">
-  We showed that pretrained neural networks, like humans, have internal representations that overrepresent frequent variable values at the expense of certainty for less common values. Furthermore, we demonstrated that optimized readouts of local visual orientation from these networks’ internal representations show similar orientation biases and geometric illusions, just as human subjects.
+  We showed that pretrained neural networks, like humans, have internal representations that overrepresent frequent variable values at the expense of certainty for less common values. Furthermore, we demonstrated that optimized readouts of local visual orientation from these networks’ internal representations show similar orientation biases and geometric illusions, just as human subjects. We also have some theory based on the learning dynamics of graident descent on the origin of efficient codes in neural network.
   </div>
 </div>
 
