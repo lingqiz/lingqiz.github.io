@@ -78,6 +78,7 @@ I am generally interested in how biological and artificial systems solve challen
 <br>
 **PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
 *[\[CCN, 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
+*[\[Nat. Commun., 2022\]](https://www.nature.com/articles/s41467-022-35659-7)* <br>
 
 <div class="row">
   <div class="column">
@@ -86,34 +87,6 @@ I am generally interested in how biological and artificial systems solve challen
 
   <div class="column" markdown="1">
   We showed that pretrained neural networks, like humans, have internal representations that overrepresent frequent variable values at the expense of certainty for less common values. Furthermore, we demonstrated that optimized readouts of local visual orientation from these networks’ internal representations show similar orientation biases and geometric illusions, just as human subjects.
-  </div>
-</div>
-
-<br>
-**COURSE PROJECT (CSE 167x/168x, COMPUTER GRAPHICS)**  
-*[\[Simple Python Ray Tracer\]](https://github.com/lingqiz/CSE-167x-RayTracer)  [\[Path Tracer with OptiX\]](https://github.com/lingqiz/CSE-168x-OptiX)* <br>
-
-<div class="row">
-  <div class="column">
-  <img class="proj-image" src="/assets/img/cse167.png" style="height: 100%; width: 100%; object-fit: contain">
-  </div>
-
-  <div class="column" markdown="1">
-  Basics of physically based rendering: Implementation of basic Whitted Ray-Tracing with Python, and a Monte Carlo Path Tracer with NVIDIA OptiX.
-  </div>
-</div>
-
-<br>
-**COURSE PROJECT (STAT 927, BAYESIAN STATISTICS)**  
-*[\[Data+Code\]](https://github.com/zlqzcc/DoublePassBayesian)* <br>
-
-<div class="row">
-  <div class="column">
-  <img class="proj-image" src="/assets/img/bayesian.png" style="height: 100%; width: 100%; object-fit: contain">
-  </div>
-
-  <div class="column" markdown="1">
-  Implementation of a hierarchical Bayesian model for parameter estimation of a non-trivial psychophysical experiment (inferring the partitioning of internal vs. external noise in depth perception). Posterior computation with Gibbs sampler nested with Metropolis-Hastings algorithm.
   </div>
 </div>
 
