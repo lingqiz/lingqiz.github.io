@@ -106,6 +106,9 @@ Previously, I got my B.E. in Computer Science, from Southern University of Scien
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
+* **LQ Zhang**, Z Kadkhodaie, EP Simoncelli, and DH Brainard.
+[Optimized linear measurements for inverse problems using diffusion-based image generation](https://arxiv.org/abs/2405.17456). arXiv, 2024.
+
 * AS Benjamin, **LQ Zhang**, C Qiu, AA Stocker, and KP Kording.
 [Efficient neural codes naturally emerge through gradient descent learning](https://www.nature.com/articles/s41467-022-35659-7). Nature Communications, 2022.
 
