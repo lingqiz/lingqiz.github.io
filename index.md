@@ -39,7 +39,7 @@ Previously, I got my B.E. in Computer Science, from Southern University of Scien
 
 <div class="row">
   <div class="column">
-  <img class="proj-image" src="/assets/img/OLMs" style="height: 100%; width: 100%; object-fit: contain">
+  <img class="proj-image" src="/assets/img/OLMs.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 
   <div class="column" markdown="1">
