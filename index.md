@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Ling-Qi, PhD Candidate in Computational Neuroscience at Penn.
+  Personal Website of Ling-Qi.
 hide_description: true
 ---
 
@@ -22,18 +22,32 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(0,0,0)" id="about">About Me </h2>
 
-Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺). Starting October 2023, I have joined [Janelia Research Campus](https://www.janelia.org/) as a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows).
+Hi there! Welcome to my website! My name is Ling-Qi Zhang (张凌祺). I am currently a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) at [Janelia Research Campus](https://www.janelia.org/). My research focuses on developing theories and models of animal behavior in naturalistic environment.
 
 I received my Ph.D. from the University of Pennsylvania, working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) on computational models of perception and visual system. I also hold an M.A. in Statistics from Penn.
 
 Previously, I got my B.E. in Computer Science, from Southern University of Science and Technology, which is newly established in 2011 at Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)).
 
-I am generally interested in how biological and artificial systems solve challenging computational problems efficiently, using a combination of theoretical and experimental approaches. See below for some of my projects!
+ See below for some of my projects!
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
 <h3 class="h2">Selected Projects</h3>
 
+**OPTIMAL LINEAR MEASUREMENT FOR NATURAL IMAGES**  
+*[\[arXiv, 2024\]](https://arxiv.org/abs/2405.17456)  [\[GitHub\]](https://github.com/lingqiz/optimal-measurement)* <br>
+
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/speedPrior.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+
+  <div class="column" markdown="1">
+  The optimal linear measurement of a signal depends on its statistical regularity. Classical techniques, such as PCA and Compressed Sensing, are based on simple description of statistics. We introduce a general method for obtaining an optimized set of linear measurements, assuming a Bayesian inverse solution that leverages the prior implicit in a neural network trained to perform denoising (diffusion probabilistic models).
+  </div>
+</div>
+
+<br>
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
 *[\[JNeurosci, 2022\]](https://www.jneurosci.org/content/42/14/2951)  [\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)  [\[GitHub\]](https://github.com/lingqiz/Speed_Prior_2021)* <br>
 
