@@ -39,11 +39,11 @@ Previously, I got my B.E. in Computer Science, from Southern University of Scien
 
 <div class="row">
   <div class="column">
-  <img class="proj-image" src="/assets/img/speedPrior.png" style="height: 100%; width: 100%; object-fit: contain">
+  <img class="proj-image" src="/assets/img/OLMs" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 
   <div class="column" markdown="1">
-  The optimal linear measurement of a signal depends on its statistical regularity. Classical techniques, such as PCA and Compressed Sensing, are based on simple description of statistics. We introduce a general method for obtaining an optimized set of linear measurements, assuming a Bayesian inverse solution that leverages the prior implicit in a neural network trained to perform denoising (diffusion probabilistic models).
+  The optimal linear measurement of a signal depends on its statistical regularity. Classical techniques, such as PCA and Compressed Sensing, are based on simple models of statistics. We introduce a general method for obtaining an optimized set of linear measurements, assuming a Bayesian inverse solution that leverages the prior implicit in a neural network trained to perform denoising (diffusion probabilistic models).
   </div>
 </div>
 
