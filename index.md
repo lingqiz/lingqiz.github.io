@@ -45,7 +45,7 @@ See below for some of my projects!
   </div>
 
   <div class="column" markdown="1">
-  The optimal linear measurement of a signal depends on its statistical regularity. Classical techniques, such as PCA and Compressed Sensing (CS), are based on simple statistical models. We introduce a general method for obtaining an optimized set of linear measurements, assuming a Bayesian inverse solution that leverages the prior implicit in a neural network trained to perform denoising (diffusion probabilistic models).
+  The optimal linear measurement of a signal depends on its statistical regularity. Classical techniques, such as PCA and Compressed Sensing (CS), are based on simple statistical models. We introduce a general method for obtaining an optimized set of linear measurements, assuming a Bayesian inverse solution that leverages the prior implicit in a neural network trained to perform denoising (diffusion probabilistic models). We demonstrate that these measurements are distinct from those of PCA and CS, with significant improvements in minimizing squared reconstruction error. 
   </div>
 </div>
 
