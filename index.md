@@ -26,7 +26,7 @@ Hi there! Welcome to my website!
 
 My name is Ling-Qi Zhang. I am currently a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) at [Janelia Research Campus](https://www.janelia.org/). I am fascinated by how biological systems can solve challenging computational problems with remarkable efficiency. My research adopts a normative framework to study how the brain best achieves animals' behavioral goals under various biological constraints. At Janelia, I collaborate closely with experimentalists to develop theory and model of animal behavior in naturalistic environment.
 
-Previously, I received my Ph.D. from the University of Pennsylvania, working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) on probabilistic models of perception and neural representation. I also hold an M.A. in Statistics from Penn. 
+I received my Ph.D. from the University of Pennsylvania, working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) on probabilistic models of perception and neural representation. I also hold an M.A. in Statistics from Penn. 
 
 Before that, I got my B.E. in Computer Science from Southern University of Science and Technology, which was newly established in 2011 in Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)).
 
