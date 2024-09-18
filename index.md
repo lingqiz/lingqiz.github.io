@@ -24,7 +24,7 @@ hide_description: true
 
 Hi there! Welcome to my website! 
 
-My name is Ling-Qi Zhang. I am currently a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) at [Janelia Research Campus](https://www.janelia.org/). I am fascinated by how biological systems can solve challenging computational problems with remarkable efficiency. My research adopts a normative framework to study how the brain best achieves animals' behavioral goals under various biological constraints. At Janelia, I collaborate closely with experimentalists to develop theory and model of animal behavior in naturalistic environment.
+My name is Ling-Qi Zhang. I am currently a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) at [Janelia Research Campus](https://www.janelia.org/). I am fascinated by how biological systems can solve challenging computational problems with remarkable efficiency. My research adopts a normative framework to study how the brain best achieves the behavioral goals of animals under various biological constraints. At Janelia, I collaborate closely with experimentalists to develop theory and model of animal behavior in naturalistic environment.
 
 I received my Ph.D. from the University of Pennsylvania, working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php) on probabilistic models of perception and neural representation. I also hold an M.A. in Statistics from Penn. 
 
@@ -59,7 +59,7 @@ See below for some of my projects!
   </div>
 
   <div class="column" markdown="1">
-  The optimal linear measurement of a signal depends on its statistical regularity. Classical techniques, such as PCA and Compressed Sensing (CS), are based on simple statistical models. We introduce a general method for obtaining an optimized set of linear measurements, assuming a Bayesian inverse solution that leverages the prior implicit in a neural network trained to perform denoising (diffusion probabilistic models).
+  The optimal linear measurement of a signal depends on its statistical regularity. Classical techniques, such as PCA and Compressed Sensing (CS), are based on simple statistical models. We introduce a general method for obtaining an optimized set of linear measurements, assuming a Bayesian inverse solution that leverages the prior implicit in a neural network trained to perform denoising (diffusion probabilistic models). We demonstrate that these measurements are distinct from those of PCA and CS, with significant improvements in minimizing squared reconstruction error. 
   </div>
 </div>
 
