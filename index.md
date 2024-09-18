@@ -36,7 +36,7 @@ See below for some of my projects!
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
 <h3 class="h2">Selected Projects</h3>
 
-**Dynamic Efficient Coding in the Tilt Illusion**  
+**DYNAMIC EFFICIENT CODING IN THE TILT ILLUSION**  
 *[\[bioRxiv, 2024\]](https://www.biorxiv.org/content/10.1101/2024.09.17.613538v1)  [\[GitHub\]](https://github.com/lingqiz/orientation-encoding)* <br>
 
 <div class="row">
