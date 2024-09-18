@@ -41,7 +41,7 @@ See below for some of my projects!
 
 <div class="row">
   <div class="column">
-  <img class="proj-image" src="/assets/img/OLMs.png" style="height: 100%; width: 100%; object-fit: contain">
+  <img class="proj-image" src="/assets/img/tilt_illusion.png" style="height: 100%; width: 100%; object-fit: contain">
   </div>
 
   <div class="column" markdown="1">
