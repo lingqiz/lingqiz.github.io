@@ -36,7 +36,7 @@ See below for some of my projects!
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
 <h3 class="h2">Selected Projects</h3>
 
-**Dynamic Efficient Coding in Contextual Modulation**
+**Dynamic Efficient Coding in the Tilt Illusion**  
 *[\[bioRxiv, 2024\]](https://www.biorxiv.org/content/10.1101/2024.09.17.613538v1)  [\[GitHub\]](https://github.com/lingqiz/orientation-encoding)* <br>
 
 <div class="row">
@@ -50,7 +50,7 @@ See below for some of my projects!
 </div>
 
 <br>
-**OPTIMAL LINEAR MEASUREMENT FOR NATURAL IMAGES**
+**OPTIMAL LINEAR MEASUREMENT FOR NATURAL IMAGES**  
 *[\[arXiv, 2024\]](https://arxiv.org/abs/2405.17456)  [\[GitHub\]](https://github.com/lingqiz/optimal-measurement)* <br>
 
 <div class="row">
