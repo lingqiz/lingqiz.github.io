@@ -36,7 +36,21 @@ See below for some of my projects!
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
 <h3 class="h2">Selected Projects</h3>
 
-**OPTIMAL LINEAR MEASUREMENT FOR NATURAL IMAGES**  
+**Dynamic Efficient Coding in Contextual Modulation**
+*[\[bioRxiv, 2024\]](https://www.biorxiv.org/content/10.1101/2024.09.17.613538v1)  [\[GitHub\]](https://github.com/lingqiz/orientation-encoding)* <br>
+
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/OLMs.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+
+  <div class="column" markdown="1">
+  We simultaneously obtained psychophysical and fMRI responses in the tilt illusion experiment, and extracted sensory encoding precision (Fisher information) from their behavioral and neural data. We found that in the absence of a surround, encoding reflects the natural scene statistics of orientation. However, in the presence of an oriented surround, encoding precision is significantly increased for stimuli similar to the surround orientation. We suggest that the tilt illusion naturally emerges from a dynamic coding strategy that efficiently reallocates neural coding resources based on the current stimulus context.
+  </div>
+</div>
+
+<br>
+**OPTIMAL LINEAR MEASUREMENT FOR NATURAL IMAGES**
 *[\[arXiv, 2024\]](https://arxiv.org/abs/2405.17456)  [\[GitHub\]](https://github.com/lingqiz/optimal-measurement)* <br>
 
 <div class="row">
@@ -107,6 +121,9 @@ See below for some of my projects!
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
+
+* **LQ Zhang**, J Mao, GK Aguirre, and AA Stocker.
+[The tilt illusion arises from an efficient reallocation of neural coding resources at the contextual boundary](https://www.biorxiv.org/content/10.1101/2024.09.17.613538v1). bioRxiv, 2024.
 
 * **LQ Zhang**, Z Kadkhodaie, EP Simoncelli, and DH Brainard.
 [Optimized linear measurements for inverse problems using diffusion-based image generation](https://arxiv.org/abs/2405.17456). arXiv, 2024.
