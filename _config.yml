@@ -41,8 +41,6 @@ logo:                  /assets/img/lingqi.jpg
 author:
   name:                Ling-Qi Zhang
   email:               <lingqiz@sas.upenn.edu>
-  # Used by `jekyll-seo-tag`:
-  # twitter:             LingCheeseZ
 
 # Add links to the sidebar.
 menu:
