@@ -30,7 +30,7 @@ description:           >
 # tagline: PhD Candidate in Computational Neuroscience @ Penn
 
 # A list of keywords for your blog
-keywords:              [Ling-Qi, Zhang, Neuroscience, Psychology, Penn, UPenn]
+keywords:              [Ling-Qi, Zhang, Neuroscience, Psychology, Computation, Brain, Behavior, Cognition, Machine Learning]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,7 +42,7 @@ author:
   name:                Ling-Qi Zhang
   email:               <lingqiz@sas.upenn.edu>
   # Used by `jekyll-seo-tag`:
-  twitter:             LingCheeseZ
+  # twitter:             LingCheeseZ
 
 # Add links to the sidebar.
 menu:
