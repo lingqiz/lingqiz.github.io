@@ -50,7 +50,7 @@ See below for some of my projects!
 </div>
 
 <br>
-**DYNAMIC EFFICIENT CODING IN THE TILT ILLUSION**  
+**ADAPTIVE EFFICIENT CODING IN THE TILT ILLUSION**  
 *[\[Article\]](https://www.pnas.org/doi/10.1073/pnas.2421565122)  [\[GitHub\]](https://github.com/lingqiz/orientation-encoding)* <br>
 
 <div class="row">
