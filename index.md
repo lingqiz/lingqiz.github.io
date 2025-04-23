@@ -36,22 +36,8 @@ See below for some of my projects!
 <h2 class="h1" style="color: rgb(0,0,0)" id="research">Research </h2>
 <h3 class="h2">Selected Projects</h3>
 
-**DYNAMIC EFFICIENT CODING IN THE TILT ILLUSION**  
-*[\[bioRxiv, 2024\]](https://www.biorxiv.org/content/10.1101/2024.09.17.613538v1)  [\[GitHub\]](https://github.com/lingqiz/orientation-encoding)* <br>
-
-<div class="row">
-  <div class="column">
-  <img class="proj-image" src="/assets/img/tilt_illusion.png" style="height: 100%; width: 100%; object-fit: contain">
-  </div>
-
-  <div class="column" markdown="1">
-  We simultaneously obtained psychophysical and fMRI responses in the tilt illusion experiment, and extracted sensory encoding precision (Fisher information) from their behavioral and neural data. We found that in the absence of a surround, encoding reflects the natural scene statistics of orientation. However, in the presence of an oriented surround, encoding precision is significantly increased for stimuli similar to the surround orientation. We suggest that the tilt illusion naturally emerges from a dynamic coding strategy that efficiently reallocates neural coding resources based on the current stimulus context.
-  </div>
-</div>
-
-<br>
-**OPTIMAL LINEAR MEASUREMENT FOR NATURAL IMAGES**  
-*[\[arXiv, 2024\]](https://arxiv.org/abs/2405.17456)  [\[GitHub\]](https://github.com/lingqiz/optimal-measurement)* <br>
+**GENERALIZED COMPRESSED SENSING FOR NATURAL IMAGES**  
+*[\[Preprint\]](https://arxiv.org/abs/2405.17456)  [\[GitHub\]](https://github.com/lingqiz/optimal-measurement)* <br>
 
 <div class="row">
   <div class="column">
@@ -64,8 +50,22 @@ See below for some of my projects!
 </div>
 
 <br>
+**DYNAMIC EFFICIENT CODING IN THE TILT ILLUSION**  
+*[\[Article\]](https://www.pnas.org/doi/10.1073/pnas.2421565122)  [\[GitHub\]](https://github.com/lingqiz/orientation-encoding)* <br>
+
+<div class="row">
+  <div class="column">
+  <img class="proj-image" src="/assets/img/tilt_illusion.png" style="height: 100%; width: 100%; object-fit: contain">
+  </div>
+
+  <div class="column" markdown="1">
+  We simultaneously obtained psychophysical and fMRI responses in the tilt illusion experiment, and extracted sensory encoding precision (Fisher information) from their behavioral and neural data. We found that in the absence of a surround, encoding reflects the natural scene statistics of orientation. However, in the presence of an oriented surround, encoding precision is significantly increased for stimuli similar to the surround orientation. We suggest that the tilt illusion naturally emerges from a dynamic coding strategy that efficiently reallocates neural coding resources based on the current stimulus context.
+  </div>
+</div>
+
+<br>
 **BEHAVIORAL AND NEURAL EFFICIENT CODING OF SPEED**  
-*[\[JNeurosci, 2022\]](https://www.jneurosci.org/content/42/14/2951)  [\[V-VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)  [\[GitHub\]](https://github.com/lingqiz/Speed_Prior_2021)* <br>
+*[\[Article\]](https://www.jneurosci.org/content/42/14/2951)  [\[VSS 2021 Poster\]](https://www.youtube.com/watch?v=W5DH4h2dH8Y)  [\[GitHub\]](https://github.com/lingqiz/Speed_Prior_2021)* <br>
 
 <div class="row">
   <div class="column">
@@ -79,7 +79,7 @@ See below for some of my projects!
 
 <br>
 **BAYESIAN IMAGE RECONSTRUCTION FROM CONE MOSAIC SIGNAL**  
-*[\[eLife, 2022\]](https://elifesciences.org/articles/71132)  [\[V-VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
+*[\[Article\]](https://elifesciences.org/articles/71132)  [\[VSS 2020 Talk\]](https://youtu.be/d5qI0FNCAv4)  [\[GitHub\]](https://github.com/isetbio/ISETImagePipeline)* <br>
 
 <div class="row">
   <div class="column">
@@ -93,7 +93,7 @@ See below for some of my projects!
 
 <br>
 **VISUAL ORIENTATION ENCODING IN INDIVIDUALS WITH AUTISM**  
-*[\[PLOS Biology, 2021\]](https://doi.org/10.1371/journal.pbio.3001215)  [\[Primer\]](https://doi.org/10.1371/journal.pbio.3001293)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
+*[\[Article\]](https://doi.org/10.1371/journal.pbio.3001215)  [\[Primer\]](https://doi.org/10.1371/journal.pbio.3001293)  [\[Data+Code\]](https://github.com/lingqiz/ASD_Encoding_2020)* <br>
 
 <div class="row">
   <div class="column">
@@ -107,7 +107,7 @@ See below for some of my projects!
 
 <br>
 **PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
-*[\[CCN, 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)  [\[Nat. Commun., 2022\]](https://www.nature.com/articles/s41467-022-35659-7)* <br>
+*[\[Article\]](https://www.nature.com/articles/s41467-022-35659-7)  [\[CCN 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
 
 <div class="row">
   <div class="column">
@@ -122,11 +122,11 @@ See below for some of my projects!
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
-* **LQ Zhang**, J Mao, GK Aguirre, and AA Stocker.
-[The tilt illusion arises from an efficient reallocation of neural coding resources at the contextual boundary](https://www.biorxiv.org/content/10.1101/2024.09.17.613538v1). bioRxiv, 2024.
-
 * **LQ Zhang**, Z Kadkhodaie, EP Simoncelli, and DH Brainard.
-[Optimized linear measurements for inverse problems using diffusion-based image generation](https://arxiv.org/abs/2405.17456). arXiv, 2024.
+[Generalized compressed sensing for image reconstruction with diffusion probabilistic models](https://openreview.net/forum?id=lmHh4FmPWZ). arXiv (preprint), 2025.
+
+* **LQ Zhang**, J Mao, GK Aguirre, and AA Stocker.
+[The tilt illusion arises from an efficient reallocation of neural coding resources at the contextual boundary](https://www.pnas.org/doi/10.1073/pnas.2421565122). Proc. National Academy of Sciences, 2025.
 
 * AS Benjamin, **LQ Zhang**, C Qiu, AA Stocker, and KP Kording.
 [Efficient neural codes naturally emerge through gradient descent learning](https://www.nature.com/articles/s41467-022-35659-7). Nature Communications, 2022.
@@ -144,7 +144,7 @@ See below for some of my projects!
 
 * MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 2018.
 
-**(† deonotes co-first authorship)**
+**(† deonotes equal contribution)**
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
