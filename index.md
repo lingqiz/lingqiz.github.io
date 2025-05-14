@@ -37,7 +37,7 @@ See below for some of my projects!
 <h3 class="h2">Selected Projects</h3>
 
 **GENERALIZED COMPRESSED SENSING FOR NATURAL IMAGES**  
-*[\[Preprint\]](https://arxiv.org/abs/2405.17456)  [\[GitHub\]](https://github.com/lingqiz/optimal-measurement)* <br>
+*[\[Article\]](https://openreview.net/forum?id=lmHh4FmPWZ)  [\[GitHub\]](https://github.com/lingqiz/optimal-measurement)* <br>
 
 <div class="row">
   <div class="column">
@@ -123,7 +123,7 @@ See below for some of my projects!
 <h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
 
 * **LQ Zhang**, Z Kadkhodaie, EP Simoncelli, and DH Brainard.
-[Generalized compressed sensing for image reconstruction with diffusion probabilistic models](https://arxiv.org/abs/2405.17456). arXiv (preprint), 2025.
+[Generalized compressed sensing for image reconstruction with diffusion probabilistic models](https://openreview.net/forum?id=lmHh4FmPWZ). Transactions on Machine Learning Research, 2025.
 
 * **LQ Zhang**, J Mao, GK Aguirre, and AA Stocker.
 [The tilt illusion arises from an efficient reallocation of neural coding resources at the contextual boundary](https://www.pnas.org/doi/10.1073/pnas.2421565122). Proc. National Academy of Sciences, 2025.
