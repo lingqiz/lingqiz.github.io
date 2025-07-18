@@ -51,7 +51,7 @@ See below for some of my projects!
 
 <br>
 **ADAPTIVE EFFICIENT CODING IN THE TILT ILLUSION**  
-*[\[Article\]](https://www.pnas.org/doi/10.1073/pnas.2421565122)  [\[GitHub\]](https://github.com/lingqiz/orientation-encoding) [\[Press\]]([https://github.com/lingqiz/orientation-encoding](https://omnia.sas.upenn.edu/story/how-brain-plays-tricks-eyes-tilt-illusion-stocker-aguirre))* <br>
+*[\[Article\]](https://www.pnas.org/doi/10.1073/pnas.2421565122)  [\[GitHub\]](https://github.com/lingqiz/orientation-encoding) [\[Press\]](https://omnia.sas.upenn.edu/story/how-brain-plays-tricks-eyes-tilt-illusion-stocker-aguirre)* <br>
 
 <div class="row">
   <div class="column">
