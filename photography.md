@@ -42,24 +42,38 @@ hide_description: true
     filter: brightness(1.05);
   }
 
-  /* Enlarged preview shown while hovering a photo (desktop). */
+  /* Raise the hovered tile so its preview sits above neighbouring photos. */
+  .photo:hover {
+    z-index: 100;
+  }
+
+  /* Small enlarged preview shown over the thumbnail while hovering (desktop). */
   .photo > .preview {
-    position: fixed;
-    top: 0; left: 0; right: 0; bottom: 0;
-    z-index: 1000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.96);
+    width: 340px;
+    max-width: 80vw;
+    height: 260px;
+    z-index: 100;
     pointer-events: none;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: #202020;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+    border: 3px solid #fff;
+    border-radius: 4px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
     opacity: 0;
     visibility: hidden;
-    transition: opacity 150ms ease;
+    transition: opacity 150ms ease, transform 150ms ease;
   }
 
   .photo:hover > .preview {
     opacity: 1;
     visibility: visible;
+    transform: translate(-50%, -50%) scale(1);
   }
 
   /* Touch devices have no hover: fall back to tapping the photo to open it. */
