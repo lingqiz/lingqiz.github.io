@@ -9,3 +9,22 @@ Use this add elements to the <head/> of the document.
 <link rel="shortcut icon" type="image/png" href="/assets/icons/favicon.png">
 <link rel="icon" type="image/x-icon" href="/assets/icons/favicon.ico">
 <link rel="stylesheet" href="/assets/icomoon/style.css">
+
+{% comment %}
+Center the footer copyright from the first paint. The theme's rule for this
+lives in the async-loaded stylesheet, so on short pages the copyright briefly
+appears offset to the right before centering. Inlining it in <head> (which also
+persists across push-state navigation) removes that jump.
+{% endcomment %}
+<style type="text/css">
+  main > footer.content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    min-height: 0;
+    padding-top: 0;
+    padding-bottom: 2rem;
+  }
+</style>
