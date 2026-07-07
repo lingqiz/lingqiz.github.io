@@ -30,4 +30,4 @@ My graduate work studied these ideas in the context of early sensory systems, fo
 
 I received my Ph.D. from the University of Pennsylvania, working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php). I also hold an M.A. in Statistics from Penn. Before that, I got my B.E. in Computer Science from Southern University of Science and Technology, which was newly established in 2011 in Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)).  
 
-See [Research](/research/) for some of my projects, and [Publications](/publications/) for the full list of my publications.
+See [Research](/research/) for some of my past projects, and [Publications](/publications/) for the list of my publications.
