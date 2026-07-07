@@ -24,9 +24,9 @@ hide_description: true
 
 Hi there! Welcome to my website! 
 
-My name is Ling-Qi Zhang. I am currently a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) at [Janelia Research Campus](https://www.janelia.org/). I am fascinated by how biological systems can solve challenging computational problems with remarkable efficiency. My long-term research goal is to understand how structures of neural circuits enable this efficiency, and how inductive biases of animals are aligned with their ecological environments.  
+My name is Ling-Qi Zhang. I am currently a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) at [Janelia Research Campus](https://www.janelia.org/). I am fascinated by how biological systems solve challenging computational problems with remarkable efficiency. My long-term research goal is to understand how innate architectures of neural circuits support efficient learning and adaptive behavior for animals in their natural environments.  
 
-My graduate work studied these ideas in the context of early sensory systems, focusing on how statistics of the visual environment shape both behavior and neural representation (i.e., efficient coding). At Janelia, I study theory of inductive biases and learning, while collaborating closely with experimentalists to develop models of animal behavior in naturalistic environments.  
+My graduate work studied these ideas in the context of early sensory systems, focusing on how statistics of the visual environment shape both behavior and neural representation (i.e., efficient coding). At Janelia, I develop theory of inductive biases and learning, while collaborating closely with experimentalists on tools and models to study animal behavior in naturalistic environments.  
 
 I received my Ph.D. from the University of Pennsylvania, working with [David Brainard](https://color.psych.upenn.edu/) and [Alan Stocker](https://www.sas.upenn.edu/~astocker/lab/index.php). I also hold an M.A. in Statistics from Penn. Before that, I got my B.E. in Computer Science from Southern University of Science and Technology, which was newly established in 2011 in Shenzhen, China ([Here is a short story about our university](http://www.nature.com/news/chinese-university-wins-degree-of-freedom-1.10631)).  
 
@@ -118,33 +118,6 @@ See below for some of my projects!
   We showed that pretrained neural networks, like humans, have internal representations that overrepresent frequent variable values at the expense of certainty for less common values. Furthermore, we demonstrated that optimized readouts of local visual orientation from these networks’ internal representations show similar orientation biases and geometric illusions, just as human subjects. We also have some theory based on the learning dynamics of graident descent on the origin of efficient codes in neural network.
   </div>
 </div>
-
----
-<h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
-
-* **LQ Zhang**, Z Kadkhodaie, EP Simoncelli, and DH Brainard.
-[Generalized compressed sensing for image reconstruction with diffusion probabilistic models](https://openreview.net/forum?id=lmHh4FmPWZ). Transactions on Machine Learning Research, 2025.
-
-* **LQ Zhang**, J Mao, GK Aguirre, and AA Stocker.
-[The tilt illusion arises from an efficient reallocation of neural coding resources at the contextual boundary](https://www.pnas.org/doi/10.1073/pnas.2421565122). Proc. National Academy of Sciences, 2025.
-
-* AS Benjamin, **LQ Zhang**, C Qiu, AA Stocker, and KP Kording.
-[Efficient neural codes naturally emerge through gradient descent learning](https://www.nature.com/articles/s41467-022-35659-7). Nature Communications, 2022.
-
-* **LQ Zhang** and AA Stocker.
-[Prior expectations in visual speed perception predict encoding characteristics of neurons in area MT](https://www.jneurosci.org/content/42/14/2951). Journal of Neuroscience, 2022.
-
-* **LQ Zhang**, NP Cottaris, and DH Brainard.
-[An image reconstruction framework for characterizing initial visual encoding](https://elifesciences.org/articles/71132). eLife, 2022.
-
-* JP Noel†, **LQ Zhang†**, AA Stocker, and DE Angelaki.
-[Individuals with autism spectrum disorder have altered visual encoding capacity](https://doi.org/10.1371/journal.pbio.3001215). PLOS Biology, 2021.
-
-* AS Benjamin†, C Qiu†, **LQ Zhang†**, KP Kording, and AA Stocker. [Shared visual illusions between humans and artificial neural networks](https://ccneuro.org/2019/proceedings/0000585.pdf). 2019 Conference on Cognitive Computational Neuroscience.
-
-* MAK Peters†, **LQ Zhang†**, and L Shams. [The material-weight illusion is a Bayes-optimal percept under competing density priors](https://peerj.com/articles/5760/). PeerJ, 2018.
-
-**(† deonotes equal contribution)**
 
 ---
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
