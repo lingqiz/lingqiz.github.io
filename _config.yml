@@ -47,13 +47,13 @@ menu:
   - title:             ABOUT
     url:               /#about
   - title:             RESEARCH
-    url:               /#research
+    url:               /research/
   - title:             PUBLICATIONS
     url:               /publications/
   - title:             PHOTOGRAPHY
     url:               /photography/
   - title:             CONTACT
-    url:               /#contact-me
+    url:               /contact/
 #   - title:             Blog
 #     url:               /blog
 
