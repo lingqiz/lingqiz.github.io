@@ -50,6 +50,8 @@ menu:
     url:               /#research
   - title:             PUBLICATIONS
     url:               /publications/
+  - title:             PHOTOGRAPHY
+    url:               /photography/
   - title:             CONTACT
     url:               /#contact-me
 #   - title:             Blog
@@ -58,7 +60,7 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:              © 2021 Ling-Qi Zhang. All rights reserved.
+  - title:              © 2026 Ling-Qi Zhang. All rights reserved.
 #    url:               /legal
 #   - title:             Cookies Policy
 #     url:               /cookies-policy/

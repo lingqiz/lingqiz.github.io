@@ -123,7 +123,8 @@ See below for some of my projects!
 <h2 class="h1" style="color: rgb(0,0,0)" id="contact-me">Contact </h2>
 
 19700 Helix Dr  
-Ashburn, VA 20147
+Ashburn, VA 20147  
+United States 
 
 <p class="home-element"><strong>zhangl5 [at] janelia [dot] hhmi [dot] org</strong></p>
 
