@@ -15,7 +15,7 @@ hide_description: true
 
 *[\[Google Scholar\]](https://scholar.google.co.uk/citations?hl=en&user=zig9OAUAAAAJ&view_op=list_works&sortby=pubdate)  [\[ORCID\]](https://orcid.org/0000-0001-8468-7927)*
 
-<h3 class="h2">Selected Projects</h3>
+<h3 class="h2">Selected Publications</h3>
 
 * **LQ Zhang**, Z Kadkhodaie, EP Simoncelli, and DH Brainard.
 [Generalized compressed sensing for image reconstruction with diffusion probabilistic models](https://openreview.net/forum?id=lmHh4FmPWZ). Transactions on Machine Learning Research, 2025.
