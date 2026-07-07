@@ -7,7 +7,11 @@ description: >
 hide_description: true
 ---
 
-<h2 class="h1" style="color: rgb(0,0,0)" id="publications">Publications </h2>
+<style type="text/css">
+  .page-title {
+    color: rgb(0,0,0);
+  }
+</style>
 
 *[\[Google Scholar\]](https://scholar.google.co.uk/citations?hl=en&user=zig9OAUAAAAJ&view_op=list_works&sortby=pubdate)  [\[ORCID\]](https://orcid.org/0000-0001-8468-7927)*
 
