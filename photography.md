@@ -67,15 +67,15 @@ hide_description: true
 
   /* Landscape photos: wide box. */
   .photo.landscape > .preview {
-    width: 510px;
-    height: 390px;
+    width: 612px;
+    height: 468px;
     max-width: 90vw;
   }
 
   /* Portrait photos: tall box (transposed). */
   .photo.portrait > .preview {
-    width: 390px;
-    height: 510px;
+    width: 468px;
+    height: 612px;
     max-height: 85vh;
   }
 
