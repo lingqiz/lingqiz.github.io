@@ -93,6 +93,18 @@ hide_description: true
 </style>
 
 <div class="photo-section">
+  <h3 class="h2">Virginia</h3>
+  <div class="photo-grid">
+    <a class="photo portrait" href="/assets/img/photography/virginia/va-blue-ridge-sunset.jpg"><img src="/assets/img/photography/virginia/va-blue-ridge-sunset.jpg" alt="Sunset over the Blue Ridge Mountains"><span class="preview" style="background-image:url('/assets/img/photography/virginia/va-blue-ridge-sunset.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/virginia/va-aurora.jpg"><img src="/assets/img/photography/virginia/va-aurora.jpg" alt="Aurora over a lake at night"><span class="preview" style="background-image:url('/assets/img/photography/virginia/va-aurora.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/virginia/va-seneca-rocks.jpg"><img src="/assets/img/photography/virginia/va-seneca-rocks.jpg" alt="Seneca Rocks in autumn"><span class="preview" style="background-image:url('/assets/img/photography/virginia/va-seneca-rocks.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/virginia/va-overlook.jpg"><img src="/assets/img/photography/virginia/va-overlook.jpg" alt="Two hikers on an overlook above autumn foliage"><span class="preview" style="background-image:url('/assets/img/photography/virginia/va-overlook.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/virginia/va-fireflies.jpg"><img src="/assets/img/photography/virginia/va-fireflies.jpg" alt="Fireflies over a meadow at dusk"><span class="preview" style="background-image:url('/assets/img/photography/virginia/va-fireflies.jpg')"></span></a>
+    <a class="photo portrait" href="/assets/img/photography/virginia/va-autumn-road.jpg"><img src="/assets/img/photography/virginia/va-autumn-road.jpg" alt="Autumn road through a canopy of fall color"><span class="preview" style="background-image:url('/assets/img/photography/virginia/va-autumn-road.jpg')"></span></a>
+  </div>
+</div>
+
+<div class="photo-section">
   <h3 class="h2">Mountain West, 2025</h3>
   <div class="photo-grid">
     <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-zabriskie-point.jpg"><img src="/assets/img/photography/mountain_west/mw-zabriskie-point.jpg" alt="Sunrise over Zabriskie Point, Death Valley"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-zabriskie-point.jpg')"></span></a>
