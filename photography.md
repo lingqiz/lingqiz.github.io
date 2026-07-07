@@ -42,8 +42,10 @@ hide_description: true
     filter: brightness(1.05);
   }
 
-  /* Small enlarged preview shown while hovering (desktop). Fixed and centred in the
-     viewport so it is never clipped or hidden behind the left sidebar. */
+  /* Small enlarged preview shown while hovering (desktop). It uses position:fixed so it
+     is never clipped by the theme's overflow:hidden or hidden behind the left sidebar;
+     the script below re-centres it on whichever photo is hovered. The top/left here are
+     just a fallback (viewport centre) in case the script does not run. */
   .photo > .preview {
     position: fixed;
     top: 50%;
@@ -101,6 +103,30 @@ hide_description: true
     <a class="photo portrait" href="/assets/img/photography/scotland/scotland-edinburgh-castle.jpg"><img src="/assets/img/photography/scotland/scotland-edinburgh-castle.jpg" alt="Edinburgh Castle seen from the Vennel"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-edinburgh-castle.jpg')"></span></a>
   </div>
 </div>
+
+<script type="text/javascript">
+  (function () {
+    function bindPhotoPreviews() {
+      var photos = document.querySelectorAll('.photo-grid .photo');
+      for (var i = 0; i < photos.length; i++) {
+        var photo = photos[i];
+        if (photo.getAttribute('data-preview-bound')) continue;
+        photo.setAttribute('data-preview-bound', '1');
+        photo.addEventListener('mouseenter', function () {
+          var preview = this.querySelector('.preview');
+          if (!preview) return;
+          var target = this.querySelector('img') || this;
+          var rect = target.getBoundingClientRect();
+          preview.style.left = (rect.left + rect.width / 2) + 'px';
+          preview.style.top = (rect.top + rect.height / 2) + 'px';
+        });
+      }
+    }
+    bindPhotoPreviews();
+    var ps = document.getElementById('_pushState');
+    if (ps) ps.addEventListener('hy-push-state-load', bindPhotoPreviews);
+  })();
+</script>
 
 {% comment %}
 To add another trip: copy one <div class="photo-section"> block above and change
