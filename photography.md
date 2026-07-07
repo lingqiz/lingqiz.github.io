@@ -105,7 +105,7 @@ hide_description: true
 </div>
 
 <div class="photo-section">
-  <h3 class="h2">Mountain West</h3>
+  <h3 class="h2">Mountain West, 2025</h3>
   <div class="photo-grid">
     <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-zabriskie-point.jpg"><img src="/assets/img/photography/mountain_west/mw-zabriskie-point.jpg" alt="Sunrise over Zabriskie Point, Death Valley"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-zabriskie-point.jpg')"></span></a>
     <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-arches-park-avenue.jpg"><img src="/assets/img/photography/mountain_west/mw-arches-park-avenue.jpg" alt="Park Avenue, Arches National Park"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-arches-park-avenue.jpg')"></span></a>
