@@ -93,18 +93,6 @@ hide_description: true
 </style>
 
 <div class="photo-section">
-  <h3 class="h2">Scotland, 2023</h3>
-  <div class="photo-grid">
-    <a class="photo landscape" href="/assets/img/photography/scotland/scotland-glencoe.jpg"><img src="/assets/img/photography/scotland/scotland-glencoe.jpg" alt="The Three Sisters of Glencoe"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-glencoe.jpg')"></span></a>
-    <a class="photo landscape" href="/assets/img/photography/scotland/scotland-quiraing.jpg"><img src="/assets/img/photography/scotland/scotland-quiraing.jpg" alt="Winding road through the Quiraing, Isle of Skye"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-quiraing.jpg')"></span></a>
-    <a class="photo landscape" href="/assets/img/photography/scotland/scotland-old-man-of-storr.jpg"><img src="/assets/img/photography/scotland/scotland-old-man-of-storr.jpg" alt="The Old Man of Storr, Isle of Skye"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-old-man-of-storr.jpg')"></span></a>
-    <a class="photo landscape" href="/assets/img/photography/scotland/scotland-sheep.jpg"><img src="/assets/img/photography/scotland/scotland-sheep.jpg" alt="A sheep grazing in the Scottish Highlands"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-sheep.jpg')"></span></a>
-    <a class="photo portrait" href="/assets/img/photography/scotland/scotland-eilean-donan.jpg"><img src="/assets/img/photography/scotland/scotland-eilean-donan.jpg" alt="Eilean Donan Castle"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-eilean-donan.jpg')"></span></a>
-    <a class="photo portrait" href="/assets/img/photography/scotland/scotland-edinburgh-castle.jpg"><img src="/assets/img/photography/scotland/scotland-edinburgh-castle.jpg" alt="Edinburgh Castle seen from the Vennel"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-edinburgh-castle.jpg')"></span></a>
-  </div>
-</div>
-
-<div class="photo-section">
   <h3 class="h2">Mountain West, 2025</h3>
   <div class="photo-grid">
     <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-zabriskie-point.jpg"><img src="/assets/img/photography/mountain_west/mw-zabriskie-point.jpg" alt="Sunrise over Zabriskie Point, Death Valley"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-zabriskie-point.jpg')"></span></a>
@@ -113,6 +101,18 @@ hide_description: true
     <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-grand-teton.jpg"><img src="/assets/img/photography/mountain_west/mw-grand-teton.jpg" alt="Grand Teton reflected at Schwabacher Landing"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-grand-teton.jpg')"></span></a>
     <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-grand-prismatic.jpg"><img src="/assets/img/photography/mountain_west/mw-grand-prismatic.jpg" alt="Grand Prismatic Spring, Yellowstone National Park"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-grand-prismatic.jpg')"></span></a>
     <a class="photo portrait" href="/assets/img/photography/mountain_west/mw-slot-canyon.jpg"><img src="/assets/img/photography/mountain_west/mw-slot-canyon.jpg" alt="A hiker dwarfed by a sandstone slot canyon"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-slot-canyon.jpg')"></span></a>
+  </div>
+</div>
+
+<div class="photo-section">
+  <h3 class="h2">Scotland, 2023</h3>
+  <div class="photo-grid">
+    <a class="photo landscape" href="/assets/img/photography/scotland/scotland-glencoe.jpg"><img src="/assets/img/photography/scotland/scotland-glencoe.jpg" alt="The Three Sisters of Glencoe"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-glencoe.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/scotland/scotland-quiraing.jpg"><img src="/assets/img/photography/scotland/scotland-quiraing.jpg" alt="Winding road through the Quiraing, Isle of Skye"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-quiraing.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/scotland/scotland-old-man-of-storr.jpg"><img src="/assets/img/photography/scotland/scotland-old-man-of-storr.jpg" alt="The Old Man of Storr, Isle of Skye"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-old-man-of-storr.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/scotland/scotland-sheep.jpg"><img src="/assets/img/photography/scotland/scotland-sheep.jpg" alt="A sheep grazing in the Scottish Highlands"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-sheep.jpg')"></span></a>
+    <a class="photo portrait" href="/assets/img/photography/scotland/scotland-eilean-donan.jpg"><img src="/assets/img/photography/scotland/scotland-eilean-donan.jpg" alt="Eilean Donan Castle"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-eilean-donan.jpg')"></span></a>
+    <a class="photo portrait" href="/assets/img/photography/scotland/scotland-edinburgh-castle.jpg"><img src="/assets/img/photography/scotland/scotland-edinburgh-castle.jpg" alt="Edinburgh Castle seen from the Vennel"><span class="preview" style="background-image:url('/assets/img/photography/scotland/scotland-edinburgh-castle.jpg')"></span></a>
   </div>
 </div>
 
