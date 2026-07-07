@@ -128,6 +128,18 @@ hide_description: true
   </div>
 </div>
 
+<div class="photo-section">
+  <h3 class="h2">Earlier</h3>
+  <div class="photo-grid">
+    <a class="photo landscape" href="/assets/img/photography/earlier/earlier-alaska-glacier.jpg"><img src="/assets/img/photography/earlier/earlier-alaska-glacier.jpg" alt="Tidewater glacier and snowy peaks in Alaska"><span class="preview" style="background-image:url('/assets/img/photography/earlier/earlier-alaska-glacier.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/earlier/earlier-summit-sunset.jpg"><img src="/assets/img/photography/earlier/earlier-summit-sunset.jpg" alt="A lone figure silhouetted on a ridge at sunset"><span class="preview" style="background-image:url('/assets/img/photography/earlier/earlier-summit-sunset.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/earlier/earlier-rainier-seattle.jpg"><img src="/assets/img/photography/earlier/earlier-rainier-seattle.jpg" alt="Mount Rainier rising behind the Seattle skyline"><span class="preview" style="background-image:url('/assets/img/photography/earlier/earlier-rainier-seattle.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/earlier/earlier-milky-way.jpg"><img src="/assets/img/photography/earlier/earlier-milky-way.jpg" alt="The Milky Way over snowy mountains"><span class="preview" style="background-image:url('/assets/img/photography/earlier/earlier-milky-way.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/earlier/earlier-snoqualmie-falls.jpg"><img src="/assets/img/photography/earlier/earlier-snoqualmie-falls.jpg" alt="Snoqualmie Falls, Washington"><span class="preview" style="background-image:url('/assets/img/photography/earlier/earlier-snoqualmie-falls.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/earlier/earlier-chipmunk.jpg"><img src="/assets/img/photography/earlier/earlier-chipmunk.jpg" alt="A chipmunk feeding on a rock"><span class="preview" style="background-image:url('/assets/img/photography/earlier/earlier-chipmunk.jpg')"></span></a>
+  </div>
+</div>
+
 <script type="text/javascript">
   (function () {
     function bindPhotoPreviews() {
