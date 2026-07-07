@@ -42,18 +42,14 @@ hide_description: true
     filter: brightness(1.05);
   }
 
-  /* Raise the hovered tile so its preview sits above neighbouring photos. */
-  .photo:hover {
-    z-index: 100;
-  }
-
-  /* Small enlarged preview shown over the thumbnail while hovering (desktop). */
+  /* Small enlarged preview shown while hovering (desktop). Fixed and centred in the
+     viewport so it is never clipped or hidden behind the left sidebar. */
   .photo > .preview {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) scale(0.96);
-    z-index: 100;
+    z-index: 1000;
     pointer-events: none;
     background-color: #202020;
     background-repeat: no-repeat;
@@ -67,18 +63,18 @@ hide_description: true
     transition: opacity 150ms ease, transform 150ms ease;
   }
 
-  /* Landscape photos: wide box (3:2). */
+  /* Landscape photos: wide box. */
   .photo.landscape > .preview {
-    width: 680px;
+    width: 510px;
+    height: 390px;
     max-width: 90vw;
-    aspect-ratio: 3 / 2;
   }
 
-  /* Portrait photos: tall box (2:3). */
+  /* Portrait photos: tall box (transposed). */
   .photo.portrait > .preview {
-    height: 680px;
-    max-height: 80vh;
-    aspect-ratio: 2 / 3;
+    width: 390px;
+    height: 510px;
+    max-height: 85vh;
   }
 
   .photo:hover > .preview {
