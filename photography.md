@@ -104,6 +104,18 @@ hide_description: true
   </div>
 </div>
 
+<div class="photo-section">
+  <h3 class="h2">Mountain West</h3>
+  <div class="photo-grid">
+    <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-zabriskie-point.jpg"><img src="/assets/img/photography/mountain_west/mw-zabriskie-point.jpg" alt="Sunrise over Zabriskie Point, Death Valley"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-zabriskie-point.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-arches-park-avenue.jpg"><img src="/assets/img/photography/mountain_west/mw-arches-park-avenue.jpg" alt="Park Avenue, Arches National Park"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-arches-park-avenue.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-arches-north-window.jpg"><img src="/assets/img/photography/mountain_west/mw-arches-north-window.jpg" alt="North Window arch at sunset, Arches National Park"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-arches-north-window.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-grand-teton.jpg"><img src="/assets/img/photography/mountain_west/mw-grand-teton.jpg" alt="Grand Teton reflected at Schwabacher Landing"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-grand-teton.jpg')"></span></a>
+    <a class="photo landscape" href="/assets/img/photography/mountain_west/mw-grand-prismatic.jpg"><img src="/assets/img/photography/mountain_west/mw-grand-prismatic.jpg" alt="Grand Prismatic Spring, Yellowstone National Park"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-grand-prismatic.jpg')"></span></a>
+    <a class="photo portrait" href="/assets/img/photography/mountain_west/mw-slot-canyon.jpg"><img src="/assets/img/photography/mountain_west/mw-slot-canyon.jpg" alt="A hiker dwarfed by a sandstone slot canyon"><span class="preview" style="background-image:url('/assets/img/photography/mountain_west/mw-slot-canyon.jpg')"></span></a>
+  </div>
+</div>
+
 <script type="text/javascript">
   (function () {
     function bindPhotoPreviews() {
