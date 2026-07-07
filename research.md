@@ -100,7 +100,7 @@ hide_description: true
 
 <br>
 **PSYCHOPHYSICS WITH DEEP NEURAL NETWORKS**  
-*[\[Article\]](https://www.nature.com/articles/s41467-022-35659-7)  [\[CCN 2019\]](https://ccneuro.org/2019/proceedings/0000585.pdf)* <br>
+*[\[Article\]](https://www.nature.com/articles/s41467-022-35659-7)  [\[CCN 2019\]](https://2019.ccneuro.org/proceedings/0000585.pdf)* <br>
 
 <div class="row">
   <div class="column">
