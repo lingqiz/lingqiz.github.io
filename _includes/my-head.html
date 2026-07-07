@@ -9,3 +9,35 @@ Use this add elements to the <head/> of the document.
 <link rel="shortcut icon" type="image/png" href="/assets/icons/favicon.png">
 <link rel="icon" type="image/x-icon" href="/assets/icons/favicon.ico">
 <link rel="stylesheet" href="/assets/icomoon/style.css">
+
+{% comment %}
+Sticky, always-centered footer.
+
+The theme positions the footer with `position: absolute`. Its containing block
+changes during navigation: push-state.js applies a `transform` to #_main for the
+page-fade animation, and a transformed element becomes the containing block for
+its absolutely-positioned descendants. That made the copyright reflow and slide
+from the right to the center on load — very visible on narrow screens, where it
+briefly wrapped to a narrow column on the right. Instead we lay #_main out as a
+flex column and let the footer sit in normal flow, pushed to the bottom with
+margin-top:auto, so a transform on #_main just moves it uniformly (no reflow) and
+it stays centered from the first paint. Using flex (not position:relative on
+#_main) avoids turning #_main into a containing block for other absolute/fixed
+descendants.
+{% endcomment %}
+<style type="text/css">
+  main#_main {
+    display: flex;
+    flex-direction: column;
+  }
+
+  main#_main > footer.content {
+    position: static;
+    margin-top: auto;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: none;
+    width: auto;
+    text-align: center;
+  }
+</style>
