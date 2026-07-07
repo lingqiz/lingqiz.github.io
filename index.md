@@ -125,7 +125,7 @@ See below for some of my projects!
 19700 Helix Dr  
 Ashburn, VA 20147
 
-<p class="home-element"><strong>lingqiz [at] sas [dot] upenn [dot] edu</strong></p>
+<p class="home-element"><strong>zhangl5 [at] janelia [dot] hhmi [dot] org</strong></p>
 
 <style type="text/css">
   .body-social > ul {
