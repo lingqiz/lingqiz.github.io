@@ -24,7 +24,7 @@ hide_description: true
 
 Hi there! Welcome to my website! 
 
-My name is Ling-Qi Zhang. I am currently a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) at [Janelia Research Campus](https://www.janelia.org/). My research aims to build a conceptual and quantitative understanding of how built-in structure in behavior and neural circuits allows biological systems to learn and act efficiently in their natural environments.    
+My name is Ling-Qi Zhang. I am currently a [Theory Fellow](https://www.janelia.org/our-research/overview/theory-fellows) at [Janelia Research Campus](https://www.janelia.org/). My research aims to build a conceptual and quantitative understanding of how built-in structures in behavior and neural circuits allow biological systems to learn and act efficiently in their natural environments.    
 
 My graduate work studied these ideas through the lens of efficient coding, asking how the structure of the environment shapes perception and neural representation. My current work generalizes the same logic to natural behavior, where I study how the inductive biases of the brain shape learning and adaptive behavior in different task contexts. At Janelia, I also collaborate closely with experimentalists to build tools and models for studying complex animal behavior in naturalistic experiments.    
 
